@@ -4,8 +4,6 @@ import pandas as pd
 
 # Importing matplotlib and setting aesthetics for plotting later.
 import matplotlib.pyplot as plt
-get_ipython().run_line_magic('matplotlib', 'inline')
-get_ipython().run_line_magic('config', "InlineBackend.figure_format = 'svg'")
 plt.style.use('fivethirtyeight')
 
 # Reading datasets/coinmarketcap_06122017.csv into pandas
