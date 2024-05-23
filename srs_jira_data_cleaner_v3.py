@@ -66,8 +66,6 @@ df['Samples'] = df['Samples'].astype('float32')
 #print(df[df['Destination']=='Infinium'])
 #print(df[df['Destination']=='Fluidigm'])
 #print(df[['Key','TaT']])
-print(df.dtypes)
-print(df['TaT'])
 
 def save_csv_file(df):
     root = tk.Tk()
