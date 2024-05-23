@@ -61,6 +61,8 @@ def main():
     tickets_finished_df['Destination'] = np.where(tickets_finished_df['Destination'] =='Microbial' , 'Production', tickets_finished_df['Destination'])
     tickets_finished_df['Destination'] = np.where(tickets_finished_df['Destination'] =='Pacbio' , 'Production', tickets_finished_df['Destination'])
     tickets_finished_df['Destination'] = np.where(tickets_finished_df['Destination'] =='Long Reads' , 'Production', tickets_finished_df['Destination'])
+    tickets_finished_df['Destination'] = np.where(tickets_finished_df['Destination'] =='Infinium' , 'Production', tickets_finished_df['Destination'])
+    tickets_finished_df['Destination'] = np.where(tickets_finished_df['Destination'] =='Sonic' , 'Production', tickets_finished_df['Destination'])
     destruct = 'Destruction'
     column_name = 'Summary'
     xtr = 'XTR'
@@ -86,6 +88,8 @@ def main():
     tickets_remaining_df['Destination'] = np.where(tickets_remaining_df['Destination'] =='Microbial' , 'Production', tickets_remaining_df['Destination'])
     tickets_remaining_df['Destination'] = np.where(tickets_remaining_df['Destination'] =='Pacbio' , 'Production', tickets_remaining_df['Destination'])
     tickets_remaining_df['Destination'] = np.where(tickets_remaining_df['Destination'] =='Long Reads' , 'Production', tickets_remaining_df['Destination'])
+    tickets_remaining_df['Destination'] = np.where(tickets_remaining_df['Destination'] =='Infinium' , 'Production', tickets_remaining_df['Destination'])
+    tickets_remaining_df['Destination'] = np.where(tickets_remaining_df['Destination'] =='Sonic' , 'Production', tickets_remaining_df['Destination'])
     destruct = 'Destruction'
     column_name = 'Summary'
     xtr = 'XTR'
