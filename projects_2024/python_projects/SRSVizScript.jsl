@@ -1,0 +1,27 @@
+New Window( "Script Window",
+	<<Type( "Script" ),
+	"
+Graph Builder(
+	Size( 877, 811 ),
+	Variables( X( :Destination ), Y( :Samples ), Y( :TaT ), Y( :TaT ) ),
+	Elements(
+		Position( 1, 1 ),
+		Bar( X, Y, Legend( 25 ), Summary Statistic( \!"Sum\!" ) )
+	),
+	Elements( Position( 1, 2 ), Bar( X, Y, Legend( 26 ) ) ),
+	Elements( Position( 1, 3 ), Box Plot( X, Y, Legend( 28 ) ) ),
+	SendToReport(
+		Dispatch(
+			{},
+			\!"graph title\!",
+			TextEditBox,
+			{Set Text( \!"SRS Production (Last 4 weeks)\!" )}
+		),
+		Dispatch( {}, \!"Y title\!", TextEditBox, {Set Text( \!"Number of Samples\!" )} ),
+		Dispatch( {}, \!"Y 1 title\!", TextEditBox, {Set Text( \!"Average TaT (days)\!" )} ),
+		Dispatch( {}, \!"Y 2 title\!", TextEditBox, {Set Text( \!"TaT (days)\!" )} )
+	)
+);
+"
+) << Move Window( 219, 190 ) << Size Window( 816, 807 ) <<
+Set Window Icon( "ScriptFile" )

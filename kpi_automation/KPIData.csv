@@ -1,0 +1,676 @@
+Issue key,Issue id,Summary,Status,Resolution,Created,Custom field (Destination),Custom field (Number of Samples),Resolved
+SRS-53744,583921,[WT-143387] for XTR-10360 PICO [WR-126289],Closed,Completed,13/Jun/24 3:52 PM,Pico,67.0,14/Jun/24 7:38 AM
+SRS-53742,583877,[WT-143384] for XTR-10101 PICO [WR-126283],Closed,Completed,13/Jun/24 1:42 PM,Pico,96.0,14/Jun/24 7:38 AM
+SRS-53735,583791,[WT-143352] for XTR-10309 PICO [WR-126255],Closed,Completed,13/Jun/24 7:08 AM,Pico,32.0,13/Jun/24 10:34 AM
+SRS-53734,583789,[WT-143351] for XTR-10310 PICO [WR-126254],Closed,Completed,13/Jun/24 7:05 AM,Pico,53.0,13/Jun/24 10:34 AM
+SRS-53733,583787,[WT-143350] for XTR-10308 [WR-126253],Closed,Completed,13/Jun/24 7:01 AM,Pico,96.0,13/Jun/24 10:34 AM
+SRS-53731,583767,6/12/24_gDNA_ULP,Closed,Completed,12/Jun/24 3:32 PM,WGS,68.0,13/Jun/24 10:08 AM
+SRS-53730,583765,AoU_Infinium_GDA_Arrays_RW_2024.06.12,Closed,Completed,12/Jun/24 3:28 PM,Infinium,17.0,13/Jun/24 9:54 AM
+SRS-53729,583720,WGS_PCRFree_NVX_Multiple PDOs_06.12.24_30x_P2,Closed,Completed,12/Jun/24 1:25 PM,PCR Free,94.0,13/Jun/24 10:08 AM
+SRS-53728,583719,WGS_PCRFree_NVX_PDO-35797_06.12.24_30x,Closed,Completed,12/Jun/24 1:25 PM,PCR Free,94.0,12/Jun/24 4:17 PM
+SRS-53727,583718,WGS_PCRFree_NVX_Multiple PDOs_06.12.24_30x_P1,Closed,Completed,12/Jun/24 1:25 PM,PCR Free,94.0,12/Jun/24 4:17 PM
+SRS-53726,583717,WGS_PCRFree_NVX_GMKF_06.12.24_30x_P4,Closed,Completed,12/Jun/24 1:25 PM,PCR Free,94.0,12/Jun/24 4:17 PM
+SRS-53725,583716,WGS_PCRFree_NVX_GMKF_06.12.24_30x_P3,Closed,Completed,12/Jun/24 1:25 PM,PCR Free,94.0,12/Jun/24 4:17 PM
+SRS-53724,583715,WGS_PCRFree_NVX_GMKF_06.12.24_30x_P2,Closed,Completed,12/Jun/24 1:25 PM,PCR Free,94.0,12/Jun/24 4:17 PM
+SRS-53723,583714,1383080186_06-12-2024 12:42:34 Mercury Reworks,Closed,Completed,12/Jun/24 1:05 PM,Fluidigm,3.0,12/Jun/24 2:35 PM
+SRS-53722,583710,PECGS Sample Issue Date Upload,Closed,,12/Jun/24 12:06 PM,,,
+SRS-53721,583692,V2F tissue requests for 10x multiome pilot 6-3-24,Closed,Completed,12/Jun/24 10:41 AM,Extraction,4.0,13/Jun/24 10:50 AM
+SRS-53720,583683,mWGS_3GB_HCMCC_PDO-35929_P4,Closed,Completed,12/Jun/24 10:28 AM,Microbial,364.0,12/Jun/24 1:36 PM
+SRS-53719,583682,mWGS_3GB_HCMCC_PDO-35929_P3,Closed,Completed,12/Jun/24 10:28 AM,Microbial,364.0,12/Jun/24 1:36 PM
+SRS-53718,583681,mWGS_3GB_HCMCC_PDO-35929_P2,Closed,Completed,12/Jun/24 10:28 AM,Microbial,364.0,12/Jun/24 1:36 PM
+SRS-53717,583680,mWGS_3GB_HCMCC_PDO-35929_P1,Closed,Completed,12/Jun/24 10:28 AM,Microbial,364.0,12/Jun/24 1:36 PM
+SRS-53716,583679,WGS_PCRFree_NVX_GMKF_06.12.24_30x_P1,Closed,Completed,12/Jun/24 10:27 AM,PCR Free,94.0,12/Jun/24 4:16 PM
+SRS-53715,583677,Request for stock ID SM-MQTWH for CODEC,Closed,Completed,12/Jun/24 10:22 AM,,1.0,12/Jun/24 10:31 AM
+SRS-53712,583664,Stool_Pre-processing_Qibin Qi_Stool XTR with pre-processing_4.30.24_2_of_4,Closed,Completed,12/Jun/24 10:10 AM,,93.0,13/Jun/24 3:49 PM
+SRS-53711,583663,Stool_Pre-processing_Qibin Qi_Stool XTR with pre-processing_4.30.24_1_of_4,Closed,Completed,12/Jun/24 10:10 AM,,93.0,13/Jun/24 11:34 AM
+SRS-53710,583652,RGP_BloodExtraction_Paxgene_3Jun2024,Closed,Completed,12/Jun/24 9:43 AM,Extraction,1.0,13/Jun/24 10:52 AM
+SRS-53709,583651,RGP_BloodExtraction_Paxgene_29May2024,Closed,Completed,12/Jun/24 9:43 AM,Extraction,2.0,13/Jun/24 10:52 AM
+SRS-53708,583650,RGP_BloodExtraction_Paxgene_21May2024,Closed,Completed,12/Jun/24 9:42 AM,Extraction,1.0,13/Jun/24 10:52 AM
+SRS-53707,583649,CZI_Tissue samples to cut (4) 6-7-24,Closed,Completed,12/Jun/24 9:39 AM,Extraction,4.0,13/Jun/24 10:50 AM
+SRS-53706,583646,PDO-35291_LR,Closed,Completed,12/Jun/24 9:34 AM,,6.0,12/Jun/24 10:47 AM
+SRS-53705,583643,CLINICAL WGS request for Fingerprint_417s_6.12.24,Closed,Completed,12/Jun/24 9:18 AM,Fluidigm,417.0,12/Jun/24 11:11 AM
+SRS-53704,583642,BGEV2_MultiPDO_Rework_061124,Closed,Completed,12/Jun/24 9:11 AM,Blended Genome Exome,378.0,12/Jun/24 10:27 AM
+SRS-53703,583605,SAMPLE DESTRUCTION eMERGE_Sample_Destruction_June2024,Closed,Completed,11/Jun/24 3:51 PM,Sample Destruction,1.0,12/Jun/24 11:57 AM
+SRS-53702,583604,1383080121_06-11-2024 12:04:12 Mercury Reworks,Closed,Completed,11/Jun/24 3:51 PM,Fluidigm,20.0,11/Jun/24 4:56 PM
+SRS-53701,583603,1383080096_06-11-2024 12:02:11 Mercury Reworks,Closed,Completed,11/Jun/24 3:40 PM,Fluidigm,19.0,11/Jun/24 4:56 PM
+SRS-53700,583571,15 samples for combination PDO-35819,Closed,Completed,11/Jun/24 2:23 PM,,15.0,12/Jun/24 10:47 AM
+SRS-53697,583563,BGEv2_PDO-35849_P2,Closed,Completed,11/Jun/24 2:02 PM,Blended Genome Exome,378.0,11/Jun/24 3:38 PM
+SRS-53696,583562,BGEv2_PDO-35849_P1,Closed,Completed,11/Jun/24 2:02 PM,Blended Genome Exome,378.0,11/Jun/24 3:38 PM
+SRS-53695,583517,[WT-143320] for XTR-10401 PICO [WR-126222],Closed,Completed,11/Jun/24 1:05 PM,Pico,95.0,11/Jun/24 3:48 PM
+SRS-53694,583449,[WT-143312] for XTR-10384 PICO [WR-126216],Closed,Completed,11/Jun/24 9:12 AM,Pico,51.0,11/Jun/24 9:37 AM
+SRS-53693,583447,[WT-143311] for XTR-10389 PICO [WR-126215],Closed,Completed,11/Jun/24 9:07 AM,Pico,4.0,11/Jun/24 9:37 AM
+SRS-53692,583445,[WT-143310] for XTR-10351 PICO [WR-126214],Closed,Completed,11/Jun/24 9:00 AM,Pico,8.0,11/Jun/24 9:00 AM
+SRS-53691,583443,[WT-143309] for XTR-10400 PICO [WR-126213],Closed,Completed,11/Jun/24 8:58 AM,Pico,96.0,11/Jun/24 9:00 AM
+SRS-53690,583429,[WT-143306] for XTR-10391 PICO [WR-126211],Closed,Completed,10/Jun/24 4:38 PM,Pico,21.0,11/Jun/24 6:48 AM
+SRS-53689,583427,[WT-143305] for XTR-10331 PICO [WR-126210],Closed,Completed,10/Jun/24 4:34 PM,Pico,31.0,11/Jun/24 6:48 AM
+SRS-53688,583423,6/10/24_Custom_Hyb,Closed,Completed,10/Jun/24 4:20 PM,Exome Express,30.0,11/Jun/24 9:36 AM
+SRS-53687,583420,6/10/24_PCR+_WGS,Closed,Completed,10/Jun/24 3:50 PM,WGS,94.0,11/Jun/24 8:22 AM
+SRS-53686,583400,GDA_Infinium_RW_2024.06.10,Closed,Completed,10/Jun/24 2:17 PM,Infinium,2.0,11/Jun/24 8:36 AM
+SRS-53685,583385,PDO-35003_LR,Closed,Completed,10/Jun/24 1:03 PM,Non Fluidigm Array,1.0,11/Jun/24 9:33 AM
+SRS-53684,583357,6/10/24_SIDT_2_12-plex,Closed,Completed,10/Jun/24 12:17 PM,Blood Biopsy,55.0,11/Jun/24 8:22 AM
+SRS-53683,583344,6/10/24_SIDT_1 - clinical,Closed,Completed,10/Jun/24 12:10 PM,Exome Express,73.0,11/Jun/24 8:22 AM
+SRS-53682,583342,6/10/24_cfDNA_ULP_3,Closed,Completed,10/Jun/24 12:07 PM,Blood Biopsy,53.0,11/Jun/24 8:22 AM
+SRS-53681,583340,6/10/24_cfDNA_ULP_2,Closed,Completed,10/Jun/24 12:06 PM,Blood Biopsy,94.0,11/Jun/24 8:22 AM
+SRS-53680,583338,6/10/24_cfDNA_ULP_1 - higher coverage,Closed,Completed,10/Jun/24 12:04 PM,Blood Biopsy,94.0,11/Jun/24 8:22 AM
+SRS-53679,583302,Srivastava_BCH_Broad_PacBio_LRS_Blood Extraction_5-29-24,Closed,Completed,10/Jun/24 10:23 AM,Extraction,3.0,11/Jun/24 7:48 AM
+SRS-53676,583242,[WT-143297] for XTR-10100 PICO [WR-126198],Closed,Completed,07/Jun/24 3:08 PM,Pico,96.0,11/Jun/24 6:48 AM
+SRS-53675,583219,eMERGE_Infinium_GDA_Arrays_RW_2024.06.07,Closed,Completed,07/Jun/24 2:10 PM,Infinium,29.0,07/Jun/24 2:26 PM
+SRS-53673,583194,[WT-143295] for XTR-10387 PICO [WR-126197],Closed,Completed,07/Jun/24 12:56 PM,Pico,8.0,07/Jun/24 1:20 PM
+SRS-53672,583192,WGS_PCRFree_NVX_Mutiple PDOs_6.7.24_30x,Closed,Completed,07/Jun/24 12:55 PM,PCR Free,94.0,11/Jun/24 8:22 AM
+SRS-53671,583191,WGS_PCRFree_NVX_DIFF Pooling_Includes Clinical and Lilly RWs and RW for Topoffs_Multiple PDOs_6.7.24_30x,Closed,Completed,07/Jun/24 12:55 PM,PCR Free,94.0,10/Jun/24 4:22 PM
+SRS-53670,583170,LCSET-30593 Watchmaker Reworks,Closed,Completed,07/Jun/24 11:40 AM,RNA,29.0,11/Jun/24 9:54 AM
+SRS-53669,583138,SAMPLE DESTRUCTION CReS Kyushu 27 Sample Destruction,Closed,Completed,07/Jun/24 10:03 AM,Sample Destruction,27.0,07/Jun/24 12:07 PM
+SRS-53667,583130,james srs,Closed,Completed,07/Jun/24 9:08 AM,Fluidigm,13.0,07/Jun/24 10:15 AM
+SRS-53666,583120,SMaHT Skin Core DNA/RNA Extraction 6-5-24,Closed,Completed,07/Jun/24 8:15 AM,Extraction,1.0,07/Jun/24 8:23 AM
+SRS-53665,583104,1383080016_06-06-2024 12:21:32 Mercury Reworks,Closed,Completed,06/Jun/24 4:10 PM,Fluidigm,29.0,07/Jun/24 9:59 AM
+SRS-53663,583091,1 cWGS Samples BAHRAIN for WGS,Closed,Completed,06/Jun/24 2:59 PM,WGS,,06/Jun/24 3:53 PM
+SRS-53662,583073,SAMPLE DESTRUCTION TAK-102-1501 Sample Destruction,Closed,Completed,06/Jun/24 2:08 PM,Sample Destruction,11.0,07/Jun/24 11:19 AM
+SRS-53661,582951,Clinical Exome for RW ,Closed,Completed,06/Jun/24 8:51 AM,Exome Express,1.0,06/Jun/24 2:02 PM
+SRS-53660,582949,WGS_PCRFree_NovaSeqS4_NCI_PDO-35830_6.5.24_80x_P4,Closed,Completed,06/Jun/24 7:03 AM,PCR Free,94.0,06/Jun/24 11:40 AM
+SRS-53659,582948,WGS_PCRFree_NVX_DIFF Pooling_Includes Clinical RWs and RW for Topoffs_Multiple PDOs_060624_30x,Closed,Completed,06/Jun/24 7:03 AM,PCR Free,94.0,07/Jun/24 10:55 AM
+SRS-53658,582947,WGS_PCRFree_NovaSeqS4_NCI_PDO-35830_6.5.24_80x_P3,Closed,Completed,06/Jun/24 7:03 AM,PCR Free,94.0,06/Jun/24 11:40 AM
+SRS-53657,582946,WGS_PCRFree_DIFF Pooling_NovaSeqS4_Mutiple PDOs_6.5.24_30x_80x_Partial,Closed,Completed,06/Jun/24 7:03 AM,PCR Free,74.0,06/Jun/24 1:54 PM
+SRS-53656,582943,WGS_PCRFree_NovaSeqS4_NCI_PDO-35830_6.5.24_80x_P2,Closed,Completed,06/Jun/24 7:03 AM,PCR Free,94.0,06/Jun/24 11:40 AM
+SRS-53655,582945,WGS_PCRFree_NovaSeqS4_NCI_PDO-35830_6.5.24_80x_P1,Closed,Completed,06/Jun/24 7:03 AM,PCR Free,94.0,06/Jun/24 11:40 AM
+SRS-53654,582944,WGS_PCRFree_NovaSeqS4_NCI_PDO-35829_6.5.24_30x_P4,Closed,Completed,06/Jun/24 7:03 AM,PCR Free,94.0,06/Jun/24 11:40 AM
+SRS-53653,582942,BGE_Watchmaker_PDO-35787_P3,Closed,Completed,06/Jun/24 7:02 AM,Blended Genome Exome,374.0,06/Jun/24 11:39 AM
+SRS-53652,582941,BGE_Watchmaker_PDO-35787_P2,Closed,Completed,06/Jun/24 7:02 AM,Blended Genome Exome,378.0,06/Jun/24 11:39 AM
+SRS-53651,582940,BGE_Watchmaker_PDO-35787_P1,Closed,Completed,06/Jun/24 7:02 AM,Blended Genome Exome,378.0,06/Jun/24 11:39 AM
+SRS-53650,582939,Jimmy Mini QC June 2024,Closed,Completed,06/Jun/24 7:02 AM,Microbial,384.0,07/Jun/24 9:10 AM
+SRS-53648,582900,[WT-143237] for XTR-10312 PICO [WR-126136],Closed,Completed,05/Jun/24 2:40 PM,Pico,5.0,06/Jun/24 7:03 AM
+SRS-53646,582881,WGS_PCRFree_NovaSeqS4_NCI_PDO-35829_6.5.24_30x_P3,Closed,Completed,05/Jun/24 1:34 PM,PCR Free,94.0,06/Jun/24 8:07 AM
+SRS-53645,582880,WGS_PCRFree_NovaSeqS4_NCI_PDO-35829_6.5.24_30x_P2,Closed,Completed,05/Jun/24 1:34 PM,PCR Free,94.0,06/Jun/24 8:07 AM
+SRS-53644,582879,WGS_PCRFree_NovaSeqS4_NCI_PDO-35829_6.5.24_30x_P1,Closed,Completed,05/Jun/24 1:34 PM,PCR Free,94.0,06/Jun/24 8:07 AM
+SRS-53643,582858,[WT-143233] for XTR-10099 PICO [WR-126134],Closed,Completed,05/Jun/24 1:18 PM,Pico,96.0,05/Jun/24 1:26 PM
+SRS-53642,582856,mWGS_3GB_PDO-35558_PDO-35756,Closed,Completed,05/Jun/24 1:11 PM,Microbial,184.0,06/Jun/24 8:06 AM
+SRS-53641,582841,6/5/24_TruSeq - HIGH PRIORITY,Closed,Completed,05/Jun/24 10:59 AM,RNA,94.0,06/Jun/24 10:58 AM
+SRS-53640,582830,[WT-143222] for CO-37042363 PICO [WR-126124],Closed,Completed,05/Jun/24 10:46 AM,Pico,94.0,05/Jun/24 1:32 PM
+SRS-53639,582805,Sample Combination PDO-35819,Closed,Completed,05/Jun/24 10:00 AM,Sample Transfers,15.0,07/Jun/24 12:05 PM
+SRS-53638,582804,Tube Transfer for PDO-35833,Closed,Completed,05/Jun/24 9:59 AM,,2.0,11/Jun/24 2:18 PM
+SRS-53636,582801,[WT-143215] for BGE_FP_060524 [WR-126116],Closed,Completed,05/Jun/24 9:51 AM,Fluidigm,45.0,05/Jun/24 1:32 PM
+SRS-53635,582796,WGS request for Fingerprint_572S_6.5.24,Closed,Completed,05/Jun/24 8:55 AM,Fluidigm,572.0,05/Jun/24 10:19 AM
+SRS-53634,582795,6/4/24_Custom_Hyb,Closed,Completed,05/Jun/24 8:19 AM,Exome Express,92.0,05/Jun/24 8:58 AM
+SRS-53633,582794,6/4/24_SIDT WITH ROOM FOR NEOVAX,Closed,Completed,05/Jun/24 8:19 AM,Exome Express,25.0,05/Jun/24 8:37 AM
+SRS-53632,582686,6/3/24_Custom_LC_2,Closed,Completed,04/Jun/24 10:54 AM,Exome Express,59.0,05/Jun/24 8:23 AM
+SRS-53631,582684,6/3/24_Custom_LC_1,Closed,Completed,04/Jun/24 10:52 AM,Exome Express,59.0,05/Jun/24 8:23 AM
+SRS-53630,582676,6/4/24_cfDNA_ULP_2,Closed,Completed,04/Jun/24 10:42 AM,Blood Biopsy,74.0,05/Jun/24 8:23 AM
+SRS-53629,582674,6/4/24_cfDNA_ULP_1,Closed,Completed,04/Jun/24 10:41 AM,Blood Biopsy,89.0,05/Jun/24 8:23 AM
+SRS-53627,582541,[WT-143193] for BGE_FP_060324 [WR-126096],Closed,Completed,03/Jun/24 9:53 AM,Fluidigm,11.0,03/Jun/24 1:22 PM
+SRS-53626,582530,[WT-143192] for BGE_FP_060324 [WR-126096],Closed,Completed,03/Jun/24 9:00 AM,Fluidigm,49.0,03/Jun/24 1:22 PM
+SRS-53625,582529,BGEv2_PDO-35457_PDO-35724,Closed,Completed,03/Jun/24 9:00 AM,Blended Genome Exome,378.0,03/Jun/24 1:22 PM
+SRS-53624,582528,BGEv2_PDO-35457_P6,Closed,Completed,03/Jun/24 9:00 AM,Blended Genome Exome,378.0,03/Jun/24 1:22 PM
+SRS-53623,582527,BGEv2_RW_PDO-35457_P5,Closed,Completed,03/Jun/24 8:59 AM,Blended Genome Exome,378.0,03/Jun/24 2:21 PM
+SRS-53622,582524,[WT-143196] for XTR-10311 PICO [WR-126037],Closed,Completed,03/Jun/24 8:27 AM,Pico,1.0,03/Jun/24 9:01 AM
+SRS-53621,582522,[WT-143195] for XTR-10321 PICO [WR-126038],Closed,Completed,03/Jun/24 8:26 AM,Pico,3.0,03/Jun/24 9:01 AM
+SRS-53620,582520,[WT-143194] for XTR-10328 PICO [WR-126097],Closed,Completed,03/Jun/24 8:24 AM,Pico,2.0,03/Jun/24 9:01 AM
+SRS-53619,582512,Missing AOU WGS FULL RW Sample,Closed,Completed,03/Jun/24 7:38 AM,PCR Free,1.0,13/Jun/24 2:21 PM
+SRS-53618,582505,[WT-143191] for PDO-35781 PICO [WR-126095],Closed,Completed,02/Jun/24 10:04 PM,Pico,92.0,07/Jun/24 11:00 AM
+SRS-53617,582503,[WT-143190] for PDO-35753 PICO [WR-126094],Closed,Completed,02/Jun/24 10:02 PM,Pico,4.0,13/Jun/24 3:21 PM
+SRS-53615,582431,Victoria Martin (MGH) - Stool XTR w/o pre-processing_XTR_5,Closed,Completed,31/May/24 1:33 PM,Extraction,28.0,07/Jun/24 11:03 AM
+SRS-53613,582429,Victoria Martin (MGH) - Stool XTR w/o pre-processing_XTR_3,Closed,Completed,31/May/24 1:33 PM,,93.0,06/Jun/24 3:45 PM
+SRS-53612,582428,Victoria Martin (MGH) - Stool XTR w/o pre-processing_XTR_2,Closed,Completed,31/May/24 1:32 PM,Extraction,93.0,06/Jun/24 10:54 AM
+SRS-53611,582427,Victoria Martin (MGH) - Stool XTR w/o pre-processing_XTR_1,Closed,Completed,31/May/24 1:32 PM,Extraction,93.0,06/Jun/24 7:04 AM
+SRS-53610,582418,1383080066_05-31-2024 10:47:26 Mercury Reworks,Closed,Completed,31/May/24 12:45 PM,Fluidigm,10.0,04/Jun/24 10:16 AM
+SRS-53609,582358,WGS_PCRFree_NVX_PDO-35682_5.31.24_30x_P9,Closed,Completed,31/May/24 11:25 AM,PCR Free,94.0,31/May/24 3:23 PM
+SRS-53608,582357,WGS_PCRFree_NVX_PDO-35682_5.31.24_30x_P8,Closed,Completed,31/May/24 11:25 AM,PCR Free,94.0,31/May/24 3:23 PM
+SRS-53607,582356,WGS_PCRFree_NVX_PDO-35682_5.31.24_30x_P7,Closed,Completed,31/May/24 11:24 AM,PCR Free,94.0,31/May/24 3:23 PM
+SRS-53606,582350,WGS_PCRFree_NVX_PDO-35682_5.31.24_30x_P6,Closed,Completed,31/May/24 11:20 AM,PCR Free,94.0,31/May/24 3:23 PM
+SRS-53605,582349,WGS_PCRFree_NVX_PDO-35682_5.31.24_30x_P5,Closed,Completed,31/May/24 11:20 AM,PCR Free,94.0,31/May/24 3:23 PM
+SRS-53604,582348,WGS_PCRFree_NVX_PDO-35682_5.31.24_30x_P4,Closed,Completed,31/May/24 11:20 AM,PCR Free,94.0,31/May/24 3:23 PM
+SRS-53603,582347,WGS_PCRFree_NVX_PDO-35682_5.31.24_30x_P3,Closed,Completed,31/May/24 11:20 AM,PCR Free,94.0,31/May/24 3:23 PM
+SRS-53602,582346,WGS_PCRFree_NVX_PDO-35682_5.31.24_30x_P2,Closed,Completed,31/May/24 11:20 AM,PCR Free,94.0,31/May/24 3:23 PM
+SRS-53601,582345,WGS_PCRFree_NVX_PDO-35682_5.31.24_30x_P1,Closed,Completed,31/May/24 11:20 AM,PCR Free,94.0,31/May/24 3:23 PM
+SRS-53600,582344,WGS_PCRFree_NVX_Mutiple PDOs_5.31.24_30x_P1,Closed,Completed,31/May/24 11:20 AM,PCR Free,94.0,31/May/24 3:23 PM
+SRS-53599,582343,WGS_PCRFree_NVX_Mutiple PDOs_5.31.24_30x_P2,Closed,Completed,31/May/24 11:20 AM,PCR Free,94.0,31/May/24 3:23 PM
+SRS-53598,582322,samples from LN2,Closed,Completed,31/May/24 10:11 AM,,8.0,31/May/24 11:14 AM
+SRS-53597,582319,James Phung (Monash) - HCMCC XTR_26,Closed,Completed,31/May/24 9:57 AM,,93.0,31/May/24 1:33 PM
+SRS-53596,582308,Crompton_19-313_ANBL1531_SPECIAL_HANDLING_ULP_28_May24,Closed,Completed,31/May/24 8:26 AM,,28.0,31/May/24 1:49 PM
+SRS-53595,582306,Karlsson_Megquier (DArk Canine Cancer) - 1 plasma sample for ULPWGS_05-28-2024,Closed,Completed,31/May/24 8:25 AM,,1.0,31/May/24 1:47 PM
+SRS-53594,582300,[WT-143178] for somatic FP 053024 [WR-126080],Closed,Completed,31/May/24 6:43 AM,Fluidigm,43.0,31/May/24 10:22 AM
+SRS-53593,582299,[WT-143179] for somatic FP 053024 [WR-126080],Closed,Completed,31/May/24 6:42 AM,Fluidigm,38.0,31/May/24 10:21 AM
+SRS-53592,582297,SM-NEPB2 for FP ,Closed,Completed,30/May/24 6:48 PM,Fluidigm,1.0,05/Jun/24 1:19 PM
+SRS-53591,582291,[WT-143177] for HIGH PRIORITY_NCI_PicoRequest_926samples [WR-126079],Closed,Completed,30/May/24 4:23 PM,Pico,926.0,03/Jun/24 1:50 PM
+SRS-53590,582288,WGS_PCRFree_NVX_DIFF Pooling_Includes Clinical and Lilly RWs and RW for Topoffs_Multiple PDOs_5.30.24_30x,Closed,Completed,30/May/24 3:57 PM,PCR Free,94.0,03/Jun/24 3:14 PM
+SRS-53589,582231,EPIC_Infinium_2024.05.30_10,Closed,Completed,30/May/24 2:18 PM,Infinium,95.0,03/Jun/24 9:29 AM
+SRS-53588,582230,EPIC_Infinium_2024.05.30_9,Closed,Completed,30/May/24 2:18 PM,Infinium,95.0,03/Jun/24 9:29 AM
+SRS-53579,582215,GSA_Infinium_2024.05.30_1,Closed,Completed,30/May/24 2:01 PM,Infinium,95.0,11/Jun/24 1:55 PM
+SRS-53578,582135,[WT-143160] for BGE_FP-053024 [WR-126060],Closed,Completed,30/May/24 9:24 AM,Fluidigm,45.0,31/May/24 10:39 AM
+SRS-53577,582128,BGEv2_PDO-35457_P4,Closed,Completed,30/May/24 8:53 AM,Blended Genome Exome,378.0,30/May/24 4:56 PM
+SRS-53576,582127,BGEv2_PDO-35457_P3,Closed,Completed,30/May/24 8:53 AM,Blended Genome Exome,378.0,30/May/24 4:56 PM
+SRS-53575,582125,BGEv2_RW_PDO-35457_P1,Closed,Completed,30/May/24 8:53 AM,Blended Genome Exome,378.0,30/May/24 4:56 PM
+SRS-53574,582124,BGEv2_PDO-35457_P2,Closed,Completed,30/May/24 8:53 AM,Blended Genome Exome,378.0,30/May/24 4:56 PM
+SRS-53571,582032,COMBINATIONS_Gavin Ha_0.5X ULP WGS_plasma_EXPEDITE 2 of 2,Closed,Completed,29/May/24 12:52 PM,,82.0,29/May/24 3:20 PM
+SRS-53570,582031,COMBINATIONS_Gavin Ha_0.5X ULP WGS_plasma_EXPEDITE 1 of 2,Closed,Completed,29/May/24 12:52 PM,,116.0,29/May/24 3:06 PM
+SRS-53569,582030,Gavin Ha_0.5X ULP WGS_plasma_solos_EXPEDITE,Closed,Completed,29/May/24 12:51 PM,,5.0,29/May/24 2:36 PM
+SRS-53568,581973,Samples for Flow Quant Testing May 2024,Closed,Completed,29/May/24 7:58 AM,,95.0,29/May/24 10:05 AM
+SRS-53567,581972,[WT-143142] for somatic FP 052824 [WR-126036],Closed,Completed,29/May/24 7:13 AM,Fluidigm,32.0,30/May/24 4:56 PM
+SRS-53566,581971,[WT-143143] for somatic FP 052824 [WR-126036],Closed,Completed,29/May/24 7:13 AM,Fluidigm,24.0,30/May/24 4:56 PM
+SRS-53565,581970,[WT-143130] for BGE_FP-052824 [WR-126025],Closed,Completed,29/May/24 7:13 AM,Fluidigm,44.0,30/May/24 4:56 PM
+SRS-53564,581969,[WT-143131] for BGE_FP-052824 [WR-126025],Closed,Completed,29/May/24 7:12 AM,Fluidigm,1.0,30/May/24 4:56 PM
+SRS-53563,581968,WGS FP Reworks _AoU and  rWGS FP Plating_15s_052824,Closed,Completed,28/May/24 11:38 PM,Fluidigm,15.0,31/May/24 11:46 AM
+SRS-53562,581958,SK-69AD RNAQC,Closed,Completed,28/May/24 3:24 PM,Pico,12.0,31/May/24 11:16 AM
+SRS-53561,581928,AoU_Infinium_GDA_Arrays_RW_2024.05.28,Closed,Completed,28/May/24 2:17 PM,Infinium,5.0,03/Jun/24 2:54 PM
+SRS-53560,581927,eMERGE_Infinium_GDA_Arrays_RW_2024.05.28,Closed,Completed,28/May/24 2:17 PM,Infinium,95.0,29/May/24 2:20 PM
+SRS-53559,581889,BGEv2_PDO-35457_PDO-35650,Closed,Completed,28/May/24 11:25 AM,Blended Genome Exome,378.0,29/May/24 1:58 PM
+SRS-53558,581888,BGEv2_PDO-35405_PDO-35650,Closed,Completed,28/May/24 11:24 AM,Blended Genome Exome,378.0,29/May/24 1:58 PM
+SRS-53557,581886,BGEv2_PDO-35405_P7,Closed,Completed,28/May/24 11:19 AM,Blended Genome Exome,378.0,29/May/24 1:58 PM
+SRS-53556,581885,BGEv2_PDO-35405_P6,Closed,Completed,28/May/24 11:19 AM,Blended Genome Exome,378.0,29/May/24 1:58 PM
+SRS-53555,581884,BGEv2_RW_PDO-35405_P5,Closed,Completed,28/May/24 11:18 AM,Blended Genome Exome,378.0,31/May/24 10:33 AM
+SRS-53554,581875,AoU_WGS_PDO-35667_Set 9,Closed,Completed,28/May/24 10:57 AM,PCR Free,94.0,03/Jun/24 10:20 AM
+SRS-53553,581873,AoU_WGS_PDO-35661_Set 3,Closed,Completed,28/May/24 10:54 AM,PCR Free,94.0,03/Jun/24 10:20 AM
+SRS-53552,581872,AoU_WGS_PDO-35667_Set 8,Closed,Completed,28/May/24 10:53 AM,PCR Free,94.0,03/Jun/24 10:20 AM
+SRS-53551,581870,WT-142661 Priority Samples,Closed,Completed,28/May/24 10:43 AM,Fluidigm,95.0,13/Jun/24 10:48 AM
+SRS-53550,581854,WGS Fingerprint Request_530 samples_ 5.28.24,Closed,Completed,28/May/24 9:42 AM,Fluidigm,,29/May/24 9:59 AM
+SRS-53549,581851,[WT-143134] for XTR-10285 PICO [WR-126028],Closed,Completed,28/May/24 9:27 AM,Pico,96.0,29/May/24 7:13 AM
+SRS-53548,581847,[WT-143133] for PDO-35713 PICO [WR-126027],Closed,Completed,28/May/24 9:16 AM,Pico,1.0,31/May/24 10:49 AM
+SRS-53547,581845,[WT-143132] for PDO-35703 PICO [WR-126026],Closed,Completed,28/May/24 9:15 AM,Pico,280.0,28/May/24 9:41 AM
+SRS-53546,581843,Tissue Weight for Lisa,Closed,Completed,28/May/24 9:09 AM,Extraction,4.0,04/Jun/24 4:44 PM
+SRS-53545,581836,5/27/24_Custom_Hyb,Closed,Completed,28/May/24 9:01 AM,Exome Express,93.0,05/Jun/24 8:58 AM
+SRS-53544,581784,5/27/24_TruSeq,Closed,Completed,24/May/24 3:14 PM,RNA,44.0,03/Jun/24 4:05 PM
+SRS-53543,581775,5/27/24_Custom_LC_3,Closed,Completed,24/May/24 3:08 PM,Exome Express,8.0,29/May/24 10:44 AM
+SRS-53542,581770,5/27/24_Custom_LC_2,Closed,Completed,24/May/24 3:07 PM,Exome Express,90.0,29/May/24 10:44 AM
+SRS-53541,581768,5/27/24_Custom_LC_1,Closed,Completed,24/May/24 3:06 PM,Exome Express,94.0,28/May/24 10:52 AM
+SRS-53540,581765,5/27/24_SIDT WitH CLINICAL,Closed,Completed,24/May/24 3:00 PM,Exome Express,81.0,28/May/24 10:52 AM
+SRS-53539,581763,5/27/24_cfDNA_ULP_4,Closed,Completed,24/May/24 2:57 PM,Blood Biopsy,90.0,28/May/24 10:52 AM
+SRS-53538,581761,5/27/24_cfDNA_ULP_3,Closed,Completed,24/May/24 2:56 PM,Blood Biopsy,92.0,28/May/24 10:52 AM
+SRS-53537,581759,5/27/24_cfDNA_ULP_2,Closed,Completed,24/May/24 2:53 PM,Blood Biopsy,87.0,28/May/24 10:52 AM
+SRS-53536,581757,5/27/24_cfDNA_ULP_1,Closed,Completed,24/May/24 2:52 PM,Blood Biopsy,62.0,28/May/24 10:52 AM
+SRS-53535,581746,1383080095_05-24-2024 01:55:23 Mercury Reworks,Closed,Completed,24/May/24 2:20 PM,Fluidigm,17.0,30/May/24 6:51 PM
+SRS-53532,581722,Watchmaker Reworks 052424,Closed,Completed,24/May/24 12:57 PM,RNA,93.0,29/May/24 11:48 AM
+SRS-53531,581645,COMBINATIONS_Crompton_19-313_ANBL1531_SPECIAL_HANDLING_Combination_ULP_141_May24 2 of 3 ,Closed,Completed,24/May/24 10:42 AM,,96.0,24/May/24 2:30 PM
+SRS-53530,581644,COMBINATIONS_Crompton_19-313_ANBL1531_SPECIAL_HANDLING_Combination_ULP_141_May24 3 of 3 ,Closed,Completed,24/May/24 10:42 AM,,110.0,24/May/24 2:00 PM
+SRS-53529,581643,COMBINATIONS_Crompton_19-313_ANBL1531_SPECIAL_HANDLING_Combination_ULP_141_May24 1 of 3,Closed,Completed,24/May/24 10:42 AM,,112.0,24/May/24 1:29 PM
+SRS-53528,581595,WGS_PCRFree_NVX_PDO-35530_30x_P5,Closed,Completed,23/May/24 3:51 PM,PCR Free,94.0,24/May/24 10:17 AM
+SRS-53527,581594,WGS_PCRFree_NVX_PDO-35530_30x_P4,Closed,Completed,23/May/24 3:51 PM,PCR Free,94.0,24/May/24 10:17 AM
+SRS-53526,581593,WGS_PCRFree_NVX_PDO-35530_30x_P3,Closed,Completed,23/May/24 3:51 PM,PCR Free,94.0,24/May/24 10:17 AM
+SRS-53525,581592,WGS_PCRFree_NVX_PDO-35530_30x_P1,Closed,Completed,23/May/24 3:51 PM,PCR Free,94.0,24/May/24 10:17 AM
+SRS-53524,581591,WGS_PCRFree_NVX_PDO-35530_30x_P2,Closed,Completed,23/May/24 3:51 PM,PCR Free,94.0,24/May/24 10:17 AM
+SRS-53523,581590,WGS_PCRFree_NVX_Mutiple PDOs_5.23.24_30x_P2,Closed,Completed,23/May/24 3:51 PM,PCR Free,94.0,24/May/24 10:17 AM
+SRS-53522,581589,WGS_PCRFree_NVX_Mutiple PDOs_5.23.24_30x_P1,Closed,Completed,23/May/24 3:51 PM,PCR Free,94.0,24/May/24 11:27 AM
+SRS-53521,581587,[WT-143121] for PDO-35689 FP [WR-126016],Closed,Completed,23/May/24 3:49 PM,Fluidigm,45.0,24/May/24 10:18 AM
+SRS-53520,581586,[WT-143122] for PDO-35689 FP [WR-126016],Closed,Completed,23/May/24 3:49 PM,Fluidigm,26.0,24/May/24 10:18 AM
+SRS-53519,581553,1382994061_05-17-2024 01:54:39 Mercury Reworks,Closed,Completed,23/May/24 2:49 PM,Fluidigm,7.0,11/Jun/24 12:57 PM
+SRS-53517,581520,1382994085_05-23-2024 12:33:59 Mercury Reworks,Closed,Completed,23/May/24 12:53 PM,Fluidigm,4.0,23/May/24 2:29 PM
+SRS-53516,581513,EPIC_Infinium_2024.05.23_4,Closed,Completed,23/May/24 11:51 AM,Infinium,94.0,24/May/24 10:58 AM
+SRS-53515,581501,[WT-143114] for PDO-35676 FP [WR-126010],Closed,Completed,23/May/24 11:31 AM,Fluidigm,17.0,23/May/24 2:29 PM
+SRS-53514,581500,[WT-143115] for PDO-35676 FP [WR-126010],Closed,Completed,23/May/24 11:31 AM,Fluidigm,2.0,23/May/24 2:29 PM
+SRS-53513,581469,NA12878 for Somatic Controls,Closed,Completed,23/May/24 10:05 AM,,1.0,23/May/24 10:35 AM
+SRS-53512,581466,EPIC_Infinium_2024.05.23_3,Closed,Completed,23/May/24 9:50 AM,Infinium,95.0,23/May/24 2:39 PM
+SRS-53511,581465,EPIC_Infinium_2024.05.23_2,Closed,Completed,23/May/24 9:50 AM,Infinium,95.0,23/May/24 2:39 PM
+SRS-53510,581464,EPIC_Infinium_2024.05.23_1,Closed,Completed,23/May/24 9:49 AM,Infinium,95.0,23/May/24 2:39 PM
+SRS-53509,581461,[WT-143105] for XTR-10307 PICO [WR-125999],Closed,Completed,23/May/24 9:39 AM,Pico,96.0,23/May/24 11:21 AM
+SRS-53508,581441,A-T Project_DNA Extraction_buccal_2 samples_05-22-24,Closed,Completed,23/May/24 7:59 AM,Extraction,2.0,05/Jun/24 8:46 AM
+SRS-53507,581440,3 SUNY DNA extraction from buccal,Closed,Completed,23/May/24 7:59 AM,Extraction,3.0,05/Jun/24 8:46 AM
+SRS-53505,581393,AoU_Infinium_GDA_Arrays_RW_2024.05.22,Closed,Completed,22/May/24 2:31 PM,Infinium,9.0,23/May/24 8:19 AM
+SRS-53504,581392,eMERGE_Infinium_GDA_Arrays_RW_2024.05.22,Closed,Completed,22/May/24 2:30 PM,Infinium,24.0,23/May/24 8:41 AM
+SRS-53503,581333,[WT-143092] for BGE_FP_052224 [WR-125986],Closed,Completed,22/May/24 11:04 AM,Fluidigm,23.0,22/May/24 11:13 AM
+SRS-53502,581332,[WT-143093] for BGE_FP_052224 [WR-125986],Closed,Completed,22/May/24 11:04 AM,Fluidigm,7.0,22/May/24 11:10 AM
+SRS-53499,581314,Fibrous tissue cutting request 5-7-24,Closed,Completed,22/May/24 10:35 AM,Tube Return & Externals,18.0,22/May/24 10:50 AM
+SRS-53498,581268,[WT-143080] for XTR-10284 PICO [WR-125975],Closed,Completed,22/May/24 8:24 AM,Pico,96.0,22/May/24 9:45 AM
+SRS-53497,581259,WGS_PCRFree_NVX_Mutiple PDOs_5.21.24_30x_P2,Closed,Completed,22/May/24 7:05 AM,PCR Free,94.0,22/May/24 1:19 PM
+SRS-53496,581258,WGS_PCRFree_NVX_PDO-35089_5.21.24_30x_P2,Closed,Completed,22/May/24 7:05 AM,PCR Free,94.0,22/May/24 9:51 AM
+SRS-53495,581257,WGS_PCRFree_NVX_PDO-35089_5.21.24_30x_P1,Closed,Completed,22/May/24 7:05 AM,PCR Free,94.0,22/May/24 9:51 AM
+SRS-53494,581256,WGS_PCRFree_NVX_Mutiple PDOs_5.21.24_30x,Closed,Completed,22/May/24 7:05 AM,PCR Free,94.0,22/May/24 1:19 PM
+SRS-53493,581255,WGS_PCRFree_NVX_PDO-35616_5.21.24_30x,Closed,Completed,22/May/24 7:05 AM,PCR Free,94.0,22/May/24 1:19 PM
+SRS-53492,581254,WGS_PCRFree_NVX_Mutiple PDOs_5.21.24_30x_P1,Closed,Completed,22/May/24 7:04 AM,PCR Free,94.0,22/May/24 1:19 PM
+SRS-53489,581226,Eric's Norms 5/21/24,Closed,Completed,21/May/24 2:02 PM,Pico,136.0,21/May/24 3:38 PM
+SRS-53488,581224,WGS_PCRFree_NVX_Includes Rw's_Mutiple PDOs_5.21.24_30x,Closed,Completed,21/May/24 1:59 PM,PCR Free,94.0,22/May/24 9:27 AM
+SRS-53487,581153,1 SIMONS CLINICAL WGS case for FULL Rework_052124,Closed,Completed,21/May/24 8:21 AM,PCR Free,1.0,21/May/24 9:38 AM
+SRS-53486,581152,DRAGEN_NVX 25B_WGS Topoffs_454s_052024,Closed,Completed,21/May/24 7:51 AM,PCR Free,5.0,22/May/24 8:58 AM
+SRS-53485,581151,DRAGEN NVX 25B_WGS _AoU Topoffs_454s_05.20.24,Closed,Completed,21/May/24 7:51 AM,PCR Free,5.0,22/May/24 8:58 AM
+SRS-53484,581150,5/20/24_cfDNA_ULP_2,Closed,Completed,21/May/24 7:51 AM,Blood Biopsy,90.0,23/May/24 2:59 PM
+SRS-53483,581149,5/20/24_cfDNA_ULP_3,Closed,Completed,21/May/24 7:51 AM,Blood Biopsy,91.0,23/May/24 2:59 PM
+SRS-53482,581148,5/20/24_SIDT_CLINICAL,Closed,Completed,21/May/24 7:51 AM,Exome Express,77.0,24/May/24 10:12 AM
+SRS-53481,581147,5/20/24_Custom_LC_2,Closed,Completed,21/May/24 7:51 AM,Exome Express,94.0,23/May/24 3:28 PM
+SRS-53480,581146,WGS_PCR Plus_Mutiple PDOs_5.20.24_30x,Closed,Completed,21/May/24 7:50 AM,WGS,94.0,22/May/24 8:58 AM
+SRS-53479,581145,WGS_PCR Plus_Diff Pooling_NVX_Mutiple PDOs__30x_60x_*Special instructions*_Partial,Closed,Completed,21/May/24 7:50 AM,WGS,85.0,22/May/24 9:27 AM
+SRS-53478,581138,AoU WGS Reworks for Topoff_ 26 samples_052024,Closed,Completed,20/May/24 8:48 PM,PCR Free,26.0,31/May/24 3:43 PM
+SRS-53477,581137,AoU WGS Full LC Reworks_16_samples_052024,Closed,Completed,20/May/24 8:44 PM,PCR Free,16.0,23/May/24 3:09 PM
+SRS-53476,581134,PDO-35631 Sample Transfer,Closed,Completed,20/May/24 5:05 PM,Sample Transfers,,30/May/24 6:49 AM
+SRS-53475,581125,LCSET-30400 SRS,Closed,Completed,20/May/24 3:16 PM,Exome Express,56.0,21/May/24 2:21 PM
+SRS-53474,581090,[WT-143066] for XTR-10257 PICO [WR-125959],Closed,Completed,20/May/24 2:25 PM,Pico,61.0,21/May/24 9:24 AM
+SRS-53473,581087,[WT-143065] for XTR-10266 PICO [WR-125958],Closed,Completed,20/May/24 2:24 PM,Pico,11.0,21/May/24 9:24 AM
+SRS-53472,581085,[WT-143064] for XTR-10286 PICO [WR-125957],Closed,Completed,20/May/24 2:23 PM,Pico,10.0,21/May/24 9:24 AM
+SRS-53471,581083,[WT-143063] for XTR-10267 PICO [WR-125956],Closed,Completed,20/May/24 2:21 PM,Pico,2.0,21/May/24 9:23 AM
+SRS-53470,581079,1382994014_05-20-2024 02:00:20 Mercury Reworks,Closed,Completed,20/May/24 2:18 PM,Fluidigm,9.0,22/May/24 2:37 PM
+SRS-53469,581078,[WT-143062] for BGE_FP-052024 [WR-125953],Closed,Completed,20/May/24 1:54 PM,Fluidigm,69.0,21/May/24 2:35 PM
+SRS-53468,581077,[WT-143061] for BGE_FP-052024 [WR-125953],Closed,Completed,20/May/24 1:54 PM,Fluidigm,95.0,21/May/24 2:35 PM
+SRS-53467,581076,[WT-143059] for BGE_FP-052024 [WR-125953],Closed,Completed,20/May/24 1:54 PM,Fluidigm,95.0,21/May/24 2:35 PM
+SRS-53466,581063,[WT-143060] for BGE_FP-052024 [WR-125953],Closed,Completed,20/May/24 12:36 PM,Fluidigm,95.0,21/May/24 2:35 PM
+SRS-53465,581062,[WT-143058] for BGE_FP-052024 [WR-125953],Closed,Completed,20/May/24 12:35 PM,Fluidigm,54.0,21/May/24 2:35 PM
+SRS-53464,581061,[WT-143057] for BGE_FP_051524 [WR-125852],Closed,Completed,20/May/24 12:35 PM,Fluidigm,44.0,21/May/24 2:35 PM
+SRS-53463,581060,[WT-143056] for BGE_FP_051524 [WR-125852],Closed,Completed,20/May/24 12:35 PM,Fluidigm,95.0,21/May/24 2:35 PM
+SRS-53462,581059,[WT-143055] for BGE_FP_051524 [WR-125852],Closed,Completed,20/May/24 12:35 PM,Fluidigm,95.0,21/May/24 2:35 PM
+SRS-53461,581058,[WT-143054] for BGE_FP_051524 [WR-125852],Closed,Completed,20/May/24 12:35 PM,Fluidigm,95.0,21/May/24 2:35 PM
+SRS-53460,581057,[WT-143053] for BGE_FP_051524 [WR-125852],Closed,Completed,20/May/24 12:35 PM,Fluidigm,95.0,21/May/24 2:35 PM
+SRS-53459,581056,[WT-143052] for BGE_FP_051524 [WR-125852],Closed,Completed,20/May/24 12:35 PM,Fluidigm,95.0,21/May/24 2:35 PM
+SRS-53458,581055,[WT-143051] for BGE_FP_051524 [WR-125852],Closed,Completed,20/May/24 12:35 PM,Fluidigm,29.0,21/May/24 2:35 PM
+SRS-53457,581052,BGEv2_MultiPDO_RW_052024,Closed,Completed,20/May/24 12:33 PM,Blended Genome Exome,378.0,22/May/24 2:43 PM
+SRS-53456,581051,BGEv2_PDO-35405_P4,Closed,Completed,20/May/24 12:33 PM,Blended Genome Exome,378.0,21/May/24 2:34 PM
+SRS-53455,581050,BGEv2_PDO-35405_P3,Closed,Completed,20/May/24 12:33 PM,Blended Genome Exome,378.0,21/May/24 2:34 PM
+SRS-53454,581049,BGEv2_PDO-35405_P2,Closed,Completed,20/May/24 12:33 PM,Blended Genome Exome,378.0,21/May/24 2:34 PM
+SRS-53453,581048,BGEv2_PDO-35405_P1,Closed,Completed,20/May/24 12:33 PM,Blended Genome Exome,378.0,21/May/24 2:34 PM
+SRS-53452,581022,5/20/24_TruSeq_2,Closed,Completed,20/May/24 11:45 AM,RNA,94.0,24/May/24 10:18 AM
+SRS-53451,581020,5/20/24_TruSeq_1,Closed,Completed,20/May/24 11:42 AM,RNA,94.0,24/May/24 10:18 AM
+SRS-53450,581018,5/6/24_TruSeq_1,Closed,Completed,20/May/24 11:37 AM,RNA,94.0,20/May/24 11:40 AM
+SRS-53449,581012,5/20/24_Custom_LC_3,Closed,Completed,20/May/24 11:34 AM,Exome Express,94.0,21/May/24 2:21 PM
+SRS-53448,581008,5/20/24_Custom_LC_1,Closed,Completed,20/May/24 11:30 AM,Exome Express,94.0,21/May/24 2:21 PM
+SRS-53447,581001,5/20/24_cfDNA_ULP_1,Closed,Completed,20/May/24 11:17 AM,Blood Biopsy,27.0,23/May/24 10:56 AM
+SRS-53446,580985,Sample Transfer of PDO-35569,Closed,Completed,20/May/24 10:45 AM,Sample Transfers,369.0,29/May/24 9:42 AM
+SRS-53445,580952,CR-17908 cBGE Testing,Closed,Completed,20/May/24 8:32 AM,Blended Genome Exome,384.0,22/May/24 3:03 PM
+SRS-53444,580891,1382994002_05-17-2024 01:46:40 Mercury Reworks,Closed,Completed,17/May/24 2:05 PM,Fluidigm,10.0,04/Jun/24 7:24 AM
+SRS-53443,580820,Mars Petcare_52 feline cell pellet samples_C1_C2_DNA extraction_05-15-2024,Closed,Completed,17/May/24 10:30 AM,Extraction,52.0,13/Jun/24 9:46 AM
+SRS-53442,580819,Mars Petcare_222 canine cell pellet samples_C1_C2_DNA extraction_05-15-2024_3_of_3,Closed,Completed,17/May/24 10:30 AM,Extraction,32.0,13/Jun/24 10:51 AM
+SRS-53441,580818,Mars Petcare_222 canine cell pellet samples_C1_C2_DNA extraction_05-15-2024_2_of_3,Closed,Completed,17/May/24 10:30 AM,Extraction,95.0,13/Jun/24 10:51 AM
+SRS-53440,580817,Mars Petcare_222 canine cell pellet samples_C1_C2_DNA extraction_05-15-2024_1_of_3,Closed,Completed,17/May/24 10:30 AM,,95.0,23/May/24 8:00 AM
+SRS-53439,580816,McCarroll_HBTRC_extractions_05.15.2024_2_of_2,Closed,Completed,17/May/24 10:28 AM,Extraction,20.0,05/Jun/24 8:45 AM
+SRS-53438,580815,McCarroll_HBTRC_extractions_05.15.2024_1_of_2,Closed,Completed,17/May/24 10:28 AM,,24.0,23/May/24 10:20 AM
+SRS-53437,580814,McCarroll_ASO_SPARC_extractions_05.15.24,Closed,Completed,17/May/24 10:28 AM,Extraction,4.0,05/Jun/24 8:45 AM
+SRS-53436,580813,Crompton_17-433_4_ULPWGS_May24,Closed,Completed,17/May/24 10:28 AM,,4.0,03/Jun/24 11:11 AM
+SRS-53435,580812,Plasma_Combo_Crompton_17-433_4_ULPWGS_May24,Closed,Completed,17/May/24 10:28 AM,Extraction,4.0,07/Jun/24 11:04 AM
+SRS-53434,580811,SPECIAL_HANDLING_LMS_PECGS_ULP_WGS_23_Plasma_Samples_May2024,Closed,Completed,17/May/24 10:28 AM,Extraction,23.0,07/Jun/24 11:19 AM
+SRS-53433,580810,SPECIAL_HANDLING_OS_PECGS_ULP_WGS_1_Plasma_Sample_May2024,Closed,Completed,17/May/24 10:28 AM,Extraction,1.0,11/Jun/24 7:49 AM
+SRS-53432,580809,A-T Project_DNA Extraction_buccal_1 sample_05-16-24,Closed,Completed,17/May/24 10:27 AM,Extraction,1.0,05/Jun/24 8:46 AM
+SRS-53431,580808,OurHealth_xtr_200samples_May2024_2_of_3,Closed,Completed,17/May/24 10:27 AM,,95.0,23/May/24 11:08 AM
+SRS-53430,580807,OurHealth_xtr_200samples_May2024_1_of_3,Closed,Completed,17/May/24 10:27 AM,,95.0,23/May/24 7:59 AM
+SRS-53429,580798,OurHealth_xtr_200samples_May2024_3_of_3,Closed,Completed,17/May/24 9:30 AM,,10.0,23/May/24 7:59 AM
+SRS-53428,580797,A-T Project_DNA Extraction_saliva_1 sample_05-03-24,Closed,Completed,17/May/24 9:30 AM,,1.0,23/May/24 7:59 AM
+SRS-53427,580784,HIGH PRIORITY 5/16/24_T Cap,Closed,Completed,16/May/24 4:14 PM,RNA,42.0,17/May/24 1:25 PM
+SRS-53426,580775,sample to go to FP,Closed,Completed,16/May/24 3:43 PM,Fluidigm,125.0,17/May/24 9:37 AM
+SRS-53425,580774,Non-AoU_LongReads_2024.05.16,Closed,Completed,16/May/24 3:23 PM,,,29/May/24 4:05 PM
+SRS-53424,580772,WGS FP_271 samples_5.16.24,Closed,Completed,16/May/24 3:19 PM,Fluidigm,271.0,17/May/24 9:37 AM
+SRS-53423,580770,1 Full Container from Storage ,Closed,Completed,16/May/24 3:14 PM,Blended Genome Exome,81.0,30/May/24 3:57 PM
+SRS-53422,580753,LCSET-30381 reworks,Closed,Completed,16/May/24 2:17 PM,RNA,,29/May/24 11:48 AM
+SRS-53421,580745,FP Request for BGE samples,Closed,Completed,16/May/24 1:55 PM,Fluidigm,548.0,17/May/24 9:37 AM
+SRS-53420,580741,Clinical FP Reworks 5/16,Closed,Completed,16/May/24 1:01 PM,Fluidigm,8.0,16/May/24 3:18 PM
+SRS-53419,580731,8 CLINICAL WGS cases for FULL Rework_051624,Closed,Completed,16/May/24 12:45 PM,PCR Free,8.0,16/May/24 1:55 PM
+SRS-53418,580683,[WT-142970] for PDO-35602 PICO [WR-125893],Closed,Completed,16/May/24 11:32 AM,Pico,1.0,22/May/24 10:53 AM
+SRS-53417,580681,1383021085_05-16-2024 11:10:28 Mercury Reworks,Closed,Completed,16/May/24 11:31 AM,Fluidigm,3.0,20/May/24 10:09 AM
+SRS-53416,580680,[WT-142969] for XTR-10300 PICO [WR-125892],Closed,Completed,16/May/24 11:29 AM,Pico,1.0,20/May/24 8:46 AM
+SRS-53415,580636,WGS_PCRFree_NVX_Mutiple PDOs_5.15.24_30x_P2,Closed,Completed,16/May/24 9:22 AM,PCR Free,94.0,17/May/24 9:37 AM
+SRS-53414,580635,WGS_PCRFree_NVX_Mutiple PDOs_5.15.24_30x,Closed,Completed,16/May/24 9:22 AM,PCR Free,94.0,20/May/24 9:43 AM
+SRS-53413,580634,WGS_PCRFree_NVX_Mutiple PDOs_5.15.24_30x_P1,Closed,Completed,16/May/24 9:22 AM,PCR Free,94.0,17/May/24 9:36 AM
+SRS-53412,580560,SAMPLE DESTRUCTION Roche Rautanen Sample Destruction,Closed,Completed,15/May/24 1:46 PM,Sample Destruction,292.0,23/May/24 10:26 AM
+SRS-53411,580555,1382884233_05-15-2024 01:13:40 Mercury Reworks,Closed,Completed,15/May/24 1:34 PM,Fluidigm,15.0,16/May/24 10:18 AM
+SRS-53410,580527,[WT-142888] for PDO-35527 PICO [WR-125873],Closed,Completed,15/May/24 11:30 AM,Pico,16.0,22/May/24 10:53 AM
+SRS-53409,580492,BGEv2_PDO-35404_P5,Closed,Completed,15/May/24 10:30 AM,Blended Genome Exome,378.0,16/May/24 1:52 PM
+SRS-53408,580491,BGEv2_PDO-35404_P4,Closed,Completed,15/May/24 10:30 AM,Blended Genome Exome,378.0,16/May/24 1:52 PM
+SRS-53407,580490,BGEv2_PDO-35404_P3,Closed,Completed,15/May/24 10:30 AM,Blended Genome Exome,378.0,15/May/24 1:15 PM
+SRS-53406,580484,PDO-35571 Sample Transfer ,Closed,Completed,15/May/24 10:24 AM,Sample Transfers,,16/May/24 9:32 AM
+SRS-53405,580471,[WT-142862] for PDO-35349 PICO [WR-125853],Closed,Completed,15/May/24 10:07 AM,Pico,6.0,22/May/24 10:53 AM
+SRS-53404,580466,[WT-142853] for PDO-35570 PICO [WR-125851],Closed,Completed,15/May/24 9:47 AM,Pico,306.0,22/May/24 10:53 AM
+SRS-53403,580464,[WT-142852] for PDO-35568 PICO [WR-125847],Closed,Completed,15/May/24 9:46 AM,Pico,405.0,16/May/24 9:29 AM
+SRS-53402,580456,Adalsteinsson_MGH_Lung_Cancer_Stock_DNA_Return_May24,Closed,Completed,15/May/24 9:11 AM,Tube Return & Externals,10.0,10/Jun/24 2:54 PM
+SRS-53401,580442,WGS_PCRFree_NVX_Mutiple PDOs_5.14.24_30x_P2,Closed,Completed,15/May/24 6:21 AM,PCR Free,94.0,20/May/24 9:43 AM
+SRS-53400,580441,WGS_PCRFree_NVX_Diff Pooling__Multiple PDOs_5.14.24_30x_60x,Closed,Completed,15/May/24 6:21 AM,PCR Free,94.0,15/May/24 9:31 AM
+SRS-53399,580440,WGS_PCRFree_NVX_Mutiple PDOs_5.14.24_30x_P1,Closed,Completed,15/May/24 6:21 AM,PCR Free,94.0,15/May/24 9:31 AM
+SRS-53398,580426,GSA_Infinium_Arrays_2024.05.14,Closed,Completed,14/May/24 3:52 PM,Infinium,95.0,15/May/24 7:29 AM
+SRS-53397,580420,EPIC_Infinium_2024.05.14,Closed,Completed,14/May/24 3:39 PM,Infinium,86.0,15/May/24 7:29 AM
+SRS-53396,580419,[WT-142847] for WGS_FluidigmFP_164s_5.14 [WR-125840],Closed,Completed,14/May/24 3:37 PM,Fluidigm,36.0,15/May/24 8:39 AM
+SRS-53395,580418,[WT-142845] for WGS_FluidigmFP_164s_5.14 [WR-125840],Closed,Completed,14/May/24 3:37 PM,Fluidigm,33.0,15/May/24 8:39 AM
+SRS-53394,580417,[WT-142846] for WGS_FluidigmFP_164s_5.14 [WR-125840],Closed,Completed,14/May/24 3:37 PM,Fluidigm,95.0,15/May/24 8:39 AM
+SRS-53393,580416,AoU_Infinium_GDA_Arrays_RW_2024.05.14,Closed,Completed,14/May/24 3:37 PM,Infinium,12.0,16/May/24 9:52 AM
+SRS-53392,580413,mWGS_3GB_MultiPDO_051424,Closed,Completed,14/May/24 3:33 PM,Microbial,184.0,16/May/24 3:00 PM
+SRS-53391,580403,[WT-142849] for XTR-10246 PICO [WR-125843],Closed,Completed,14/May/24 2:53 PM,Pico,95.0,15/May/24 6:23 AM
+SRS-53390,580395,5/13/24_Custom_Hyb_2,Closed,Completed,14/May/24 2:22 PM,Exome Express,17.0,21/May/24 10:46 AM
+SRS-53389,580394,5/13/24_Custom_Hyb_1,Closed,Completed,14/May/24 2:22 PM,Exome Express,43.0,21/May/24 10:45 AM
+SRS-53388,580381,WGS FP Reworks _Lilly_PRIORITY FP Plating_21s_051424,Closed,Completed,14/May/24 1:32 PM,Fluidigm,21.0,15/May/24 8:39 AM
+SRS-53387,580357,[WT-142840] for BGE_FP_051424 [WR-125833],Closed,Completed,14/May/24 11:41 AM,Fluidigm,10.0,15/May/24 8:39 AM
+SRS-53386,580356,[WT-142839] for BGE_FP_051424 [WR-125833],Closed,Completed,14/May/24 11:41 AM,Fluidigm,20.0,15/May/24 8:39 AM
+SRS-53385,580355,[WT-142837] for WGS_FluidigmFP_95samples_5.13.24 [WR-125832],Closed,Completed,14/May/24 11:41 AM,Fluidigm,72.0,15/May/24 8:39 AM
+SRS-53384,580354,[WT-142838] for WGS_FluidigmFP_95samples_5.13.24 [WR-125832],Closed,Completed,14/May/24 11:41 AM,Fluidigm,23.0,15/May/24 8:39 AM
+SRS-53383,580353,SAMPLE DESTRUCTION CMI_PanCan_Blood_Plasma_and_BuffyCoat_Termination_Expired_BQMS_84654_May2024,Closed,Completed,14/May/24 11:41 AM,Sample Destruction,2.0,03/Jun/24 2:55 PM
+SRS-53382,580352,Return of PacBio-BCH DNA Sample to Walsh Lab 5-10-24,Closed,Completed,14/May/24 11:41 AM,Tube Return & Externals,1.0,10/Jun/24 2:54 PM
+SRS-53381,580335,LCSET-30346 RNA,Closed,Completed,14/May/24 10:52 AM,RNA,44.0,29/May/24 10:27 AM
+SRS-53379,580273,AoU WGS Reworks for Topoff_653 samples_051424,Closed,Completed,14/May/24 12:19 AM,PCR Free,653.0,31/May/24 3:25 PM
+SRS-53378,580272,AoU WGS Full LC Reworks_194 samples_051424,Closed,Completed,14/May/24 12:12 AM,PCR Free,194.0,31/May/24 3:03 PM
+SRS-53377,580263,SRS FP request for BQMS-84664,Closed,Completed,13/May/24 4:03 PM,Fluidigm,,22/May/24 9:45 AM
+SRS-53376,580234,SMaHT RNA Benchmark for Watchmaker,Closed,Completed,13/May/24 1:53 PM,,,13/May/24 2:24 PM
+SRS-53375,580207,5/13/24_TruSeq_4,Closed,Completed,13/May/24 11:52 AM,RNA,94.0,15/May/24 5:15 PM
+SRS-53374,580204,5/13/24_TruSeq_3,Closed,Completed,13/May/24 11:50 AM,RNA,94.0,15/May/24 5:15 PM
+SRS-53373,580202,5/13/24_TruSeq_2,Closed,Completed,13/May/24 11:49 AM,RNA,94.0,15/May/24 5:15 PM
+SRS-53372,580198,5/13/24_TruSeq_1,Closed,Completed,13/May/24 11:47 AM,RNA,94.0,15/May/24 5:15 PM
+SRS-53371,580196,5/13/24_Custom_LC_3,Closed,Completed,13/May/24 11:43 AM,Exome Express,94.0,14/May/24 11:19 AM
+SRS-53370,580195,5/13/24_Custom_LC_1,Closed,Completed,13/May/24 11:43 AM,Exome Express,13.0,14/May/24 11:28 AM
+SRS-53369,580194,5/13/24_Custom_Hyb_2,Closed,Completed,13/May/24 11:43 AM,Exome Express,17.0,14/May/24 11:38 AM
+SRS-53368,580192,5/13/24_Custom_LC_2,Closed,Completed,13/May/24 11:41 AM,Exome Express,94.0,14/May/24 11:19 AM
+SRS-53367,580191,5/13/24_Custom_Hyb_1,Closed,Completed,13/May/24 11:41 AM,Exome Express,43.0,14/May/24 11:37 AM
+SRS-53366,580190,5/10/24_SIDT (PE-CGS),Closed,Completed,13/May/24 11:41 AM,Exome Express,23.0,13/May/24 2:44 PM
+SRS-53365,580188,mWGS_3GB_Metagenomic_MultiPDO,Closed,Completed,13/May/24 11:40 AM,Microbial,184.0,16/May/24 3:00 PM
+SRS-53364,580180,[WT-142833] for WGS_FluidigmFP_95s_5.13.24 [WR-125826],Closed,Completed,13/May/24 11:25 AM,Fluidigm,92.0,13/May/24 1:26 PM
+SRS-53363,580179,[WT-142832] for WGS_FluidigmFP_95s_5.13.24 [WR-125826],Closed,Completed,13/May/24 11:25 AM,Fluidigm,3.0,13/May/24 1:26 PM
+SRS-53362,580178,[WT-142826] for BGE_FP_051324 [WR-125821],Closed,Completed,13/May/24 11:25 AM,Fluidigm,95.0,13/May/24 1:26 PM
+SRS-53361,580177,[WT-142827] for BGE_FP_051324 [WR-125821],Closed,Completed,13/May/24 11:25 AM,Fluidigm,55.0,13/May/24 1:26 PM
+SRS-53360,580176,[WT-142824] for BGE_FP_051324 [WR-125821],Closed,Completed,13/May/24 11:25 AM,Fluidigm,95.0,13/May/24 1:26 PM
+SRS-53359,580175,[WT-142825] for BGE_FP_051324 [WR-125821],Closed,Completed,13/May/24 11:25 AM,Fluidigm,95.0,13/May/24 1:26 PM
+SRS-53358,580174,[WT-142823] for BGE_FP_051324 [WR-125821],Closed,Completed,13/May/24 11:25 AM,Fluidigm,53.0,13/May/24 1:26 PM
+SRS-53357,580173,[WT-142822] for PDO-35525 FP [WR-125820],Closed,Completed,13/May/24 11:24 AM,Fluidigm,1.0,13/May/24 11:36 AM
+SRS-53356,580172,5/13/24_SIDT_1 WITH ROOM FOR NEOVAX,Closed,Completed,13/May/24 11:20 AM,Exome Express,77.0,13/May/24 3:11 PM
+SRS-53355,580168,5/13/24_cfDNA_ULP_2,Closed,Completed,13/May/24 11:15 AM,Blood Biopsy,71.0,14/May/24 10:23 AM
+SRS-53354,580166,5/13/24_cfDNA_ULP_1,Closed,Completed,13/May/24 11:12 AM,Blood Biopsy,91.0,14/May/24 10:23 AM
+SRS-53353,580131,[WT-142828] for XTR-10256 PICO [WR-125822],Closed,Completed,13/May/24 8:35 AM,Pico,96.0,13/May/24 11:26 AM
+SRS-53352,580122,Hourigan_MEASURE_SampleAliquotCombination_May24,Closed,Completed,13/May/24 8:05 AM,Sample Transfers,32.0,14/May/24 3:55 PM
+SRS-53351,579994,Non-AoU_LongReads_2024.05.10_2,Closed,Completed,10/May/24 10:36 AM,,6.0,10/May/24 3:49 PM
+SRS-53350,579993,Non-AoU_LongReads_2024.05.10,Closed,Completed,10/May/24 10:35 AM,,48.0,10/May/24 4:18 PM
+SRS-53349,579938,Crompton_18-138_ULPWGS_17_EWS_May24,Closed,Completed,09/May/24 4:03 PM,,17.0,17/May/24 10:28 AM
+SRS-53348,579937,[WT-142811] for PDO-35506 PICO [WR-125807],Closed,Completed,09/May/24 4:03 PM,Pico,3.0,13/May/24 2:18 PM
+SRS-53347,579935,Crompton_LiFFT_27_ULPWGS_SampleCombination_May24,Closed,Completed,09/May/24 4:03 PM,,27.0,17/May/24 10:27 AM
+SRS-53345,579933,Shipp_S1186_Batch_3_BC_XTR_83_May24,Closed,Completed,09/May/24 4:02 PM,,83.0,15/May/24 8:30 AM
+SRS-53344,579932,Gaskell_V2F and GTEx_Samples_AllPrep REDO,Closed,Completed,09/May/24 4:02 PM,,12.0,16/May/24 9:46 AM
+SRS-53343,579931,Fibrous tissue cutting request 5-7-24,Closed,Completed,09/May/24 4:02 PM,,18.0,23/May/24 7:57 AM
+SRS-53342,579930,McCarroll_Macosko_UM1_BICAN_Extractions_Batch-11_Cactus_5.3.24,Closed,Completed,09/May/24 4:02 PM,,9.0,13/May/24 2:51 PM
+SRS-53341,579925,WGS_PCRFree_NVX_PDO-35268_5.9.24_30x_P3,Closed,Completed,09/May/24 3:39 PM,PCR Free,94.0,13/May/24 11:46 AM
+SRS-53340,579924,WGS_PCRFree_NVX_PDO-35268_5.9.24_30x_P2,Closed,Completed,09/May/24 3:39 PM,PCR Free,94.0,13/May/24 11:28 AM
+SRS-53339,579923,WGS_PCRFree_NVX_PDO-35268_5.9.24_30x_P1,Closed,Completed,09/May/24 3:39 PM,PCR Free,94.0,13/May/24 10:58 AM
+SRS-53338,579922,WGS_PCRFree_NVX_Includes RW's_Mutiple PDOs_5.9.24_30x,Closed,Completed,09/May/24 3:39 PM,PCR Free,94.0,10/May/24 9:24 AM
+SRS-53337,579875,Volume Check for SM-NQ5W9,Closed,Completed,09/May/24 12:51 PM,Pico,1.0,13/May/24 1:40 PM
+SRS-53336,579838,[WT-142799] for BGE_FP_1686s-050924 [WR-125793],Closed,Completed,09/May/24 11:38 AM,Fluidigm,63.0,13/May/24 11:29 AM
+SRS-53335,579837,[WT-142798] for BGE_FP_1686s-050924 [WR-125793],Closed,Completed,09/May/24 11:38 AM,Fluidigm,95.0,13/May/24 11:29 AM
+SRS-53334,579836,[WT-142797] for BGE_FP_1686s-050924 [WR-125793],Closed,Completed,09/May/24 11:38 AM,Fluidigm,95.0,13/May/24 11:29 AM
+SRS-53333,579835,[WT-142796] for BGE_FP_1686s-050924 [WR-125793],Closed,Completed,09/May/24 11:38 AM,Fluidigm,95.0,13/May/24 11:29 AM
+SRS-53332,579834,[WT-142795] for BGE_FP_1686s-050924 [WR-125793],Closed,Completed,09/May/24 11:38 AM,Fluidigm,95.0,13/May/24 11:29 AM
+SRS-53331,579833,[WT-142794] for BGE_FP_1686s-050924 [WR-125793],Closed,Completed,09/May/24 11:38 AM,Fluidigm,95.0,13/May/24 11:29 AM
+SRS-53330,579832,[WT-142793] for BGE_FP_1686s-050924 [WR-125793],Closed,Completed,09/May/24 11:38 AM,Fluidigm,95.0,13/May/24 11:29 AM
+SRS-53329,579831,[WT-142792] for BGE_FP_1686s-050924 [WR-125793],Closed,Completed,09/May/24 11:38 AM,Fluidigm,95.0,13/May/24 11:29 AM
+SRS-53328,579830,[WT-142791] for BGE_FP_1686s-050924 [WR-125793],Closed,Completed,09/May/24 11:37 AM,Fluidigm,95.0,13/May/24 11:29 AM
+SRS-53327,579829,[WT-142790] for BGE_FP_1686s-050924 [WR-125793],Closed,Completed,09/May/24 11:37 AM,Fluidigm,95.0,13/May/24 11:29 AM
+SRS-53326,579828,[WT-142788] for BGE_FP_1686s-050924 [WR-125793],Closed,Completed,09/May/24 11:37 AM,Fluidigm,95.0,13/May/24 11:29 AM
+SRS-53325,579827,[WT-142789] for BGE_FP_1686s-050924 [WR-125793],Closed,Completed,09/May/24 11:37 AM,Fluidigm,95.0,13/May/24 11:29 AM
+SRS-53324,579826,[WT-142787] for BGE_FP_1686s-050924 [WR-125793],Closed,Completed,09/May/24 11:37 AM,Fluidigm,95.0,13/May/24 11:29 AM
+SRS-53323,579825,[WT-142786] for BGE_FP_1686s-050924 [WR-125793],Closed,Completed,09/May/24 11:37 AM,Fluidigm,95.0,13/May/24 11:29 AM
+SRS-53322,579824,[WT-142785] for BGE_FP_1686s-050924 [WR-125793],Closed,Completed,09/May/24 11:37 AM,Fluidigm,95.0,13/May/24 11:29 AM
+SRS-53321,579823,[WT-142784] for BGE_FP_1686s-050924 [WR-125793],Closed,Completed,09/May/24 11:37 AM,Fluidigm,95.0,13/May/24 11:29 AM
+SRS-53320,579822,[WT-142781] for BGE_FP_1686s-050924 [WR-125793],Closed,Completed,09/May/24 11:37 AM,Fluidigm,95.0,13/May/24 11:29 AM
+SRS-53319,579821,[WT-142783] for BGE_FP_1686s-050924 [WR-125793],Closed,Completed,09/May/24 11:37 AM,Fluidigm,8.0,13/May/24 11:29 AM
+SRS-53318,579820,[WT-142782] for BGE_FP_1686s-050924 [WR-125793],Closed,Completed,09/May/24 11:37 AM,Fluidigm,95.0,13/May/24 11:29 AM
+SRS-53317,579809,[WT-142801] for PDO-35449 [WR-125796],Closed,Completed,09/May/24 11:02 AM,Pico,1.0,16/May/24 9:38 AM
+SRS-53316,579779,[WT-142779] for WGS_FluidigmFP_188s_5.9.24 [WR-125791],Closed,Completed,09/May/24 10:23 AM,Fluidigm,95.0,13/May/24 11:29 AM
+SRS-53315,579778,[WT-142778] for WGS_FluidigmFP_188s_5.9.24 [WR-125791],Closed,Completed,09/May/24 10:23 AM,Fluidigm,3.0,13/May/24 11:29 AM
+SRS-53314,579777,[WT-142780] for WGS_FluidigmFP_188s_5.9.24 [WR-125791],Closed,Completed,09/May/24 10:23 AM,Fluidigm,90.0,13/May/24 11:29 AM
+SRS-53313,579722,1382994005_05-08-2024 03:23:51 Mercury Reworks,Closed,Completed,08/May/24 3:53 PM,Fluidigm,24.0,15/May/24 11:34 AM
+SRS-53312,579720,[WT-142774] for XTR-10247 PICO [WR-125790],Closed,Completed,08/May/24 3:28 PM,Pico,23.0,13/May/24 11:26 AM
+SRS-53311,579704,Allisons high conc samples ,Closed,Completed,08/May/24 2:39 PM,,89.0,08/May/24 3:16 PM
+SRS-53310,579646,eMERGE_Infinium_GDA_Arrays_RW_2024.05.08,Closed,Completed,08/May/24 10:35 AM,Infinium,23.0,14/May/24 2:47 PM
+SRS-53309,579644,[WT-142760] for WGS_FluidigmFP_364s_5.8.24 [WR-125774],Closed,Completed,08/May/24 10:26 AM,Fluidigm,75.0,09/May/24 11:39 AM
+SRS-53308,579643,[WT-142759] for WGS_FluidigmFP_364s_5.8.24 [WR-125774],Closed,Completed,08/May/24 10:25 AM,Fluidigm,95.0,09/May/24 11:39 AM
+SRS-53307,579642,[WT-142758] for WGS_FluidigmFP_364s_5.8.24 [WR-125774],Closed,Completed,08/May/24 10:25 AM,Fluidigm,4.0,09/May/24 11:39 AM
+SRS-53306,579641,[WT-142756] for WGS_FluidigmFP_364s_5.8.24 [WR-125774],Closed,Completed,08/May/24 10:25 AM,Fluidigm,95.0,09/May/24 11:39 AM
+SRS-53305,579640,[WT-142757] for WGS_FluidigmFP_364s_5.8.24 [WR-125774],Closed,Completed,08/May/24 10:25 AM,Fluidigm,95.0,09/May/24 11:39 AM
+SRS-53304,579603,[WT-142749] for somatic FP 050624 [WR-125759],Closed,Completed,07/May/24 4:09 PM,Fluidigm,3.0,08/May/24 10:26 AM
+SRS-53303,579602,[WT-142748] for somatic FP 050624 [WR-125759],Closed,Completed,07/May/24 4:09 PM,Fluidigm,12.0,08/May/24 10:26 AM
+SRS-53302,579578,Eli Lilly 50 mL Falcon Tube Pilot Sample Return May 2024,Closed,Completed,07/May/24 2:51 PM,Tube Return & Externals,1.0,22/May/24 10:19 AM
+SRS-53301,579577,Dispatch 8 Sample Return,Closed,Completed,07/May/24 2:51 PM,Tube Return & Externals,31.0,11/Jun/24 10:32 AM
+SRS-53300,579576,Delve Sample Return - Lindsey - May2024,Closed,Completed,07/May/24 2:51 PM,Tube Return & Externals,48.0,08/May/24 4:01 PM
+SRS-53299,579575,SAMPLE DESTRUCTION eMERGE_NYS_Sample_Discard_May2024,Closed,Completed,07/May/24 2:51 PM,Sample Destruction,432.0,04/Jun/24 9:35 AM
+SRS-53298,579574,Kimmie Ng RNA return_5.3.24,Closed,Completed,07/May/24 2:50 PM,Tube Return & Externals,1228.0,04/Jun/24 2:47 PM
+SRS-53297,579573,GDA_Infinium_2024.05.07_1,Closed,Completed,07/May/24 2:48 PM,Infinium,2.0,08/May/24 9:54 AM
+SRS-53296,579550,1382993190_05-07-2024 02:16:09 Mercury Reworks,Closed,Completed,07/May/24 2:31 PM,Fluidigm,22.0,09/May/24 9:53 AM
+SRS-53295,579548,McCarroll_Macosko_XDP_Extractions_4.24.24,Closed,Completed,07/May/24 2:20 PM,,2.0,13/May/24 2:36 PM
+SRS-53294,579547,DTP_ED_Extraction_Batch_1,Closed,Completed,07/May/24 2:20 PM,,11.0,23/May/24 7:58 AM
+SRS-53293,579546,Shipp_S1186_Batch_13_Plasma_ULP_74_May24_2_of_2,Closed,Completed,07/May/24 2:20 PM,,26.0,22/May/24 1:34 PM
+SRS-53292,579545,Shipp_S1186_Batch_13_Plasma_ULP_74_May24_1_of_2,Closed,Completed,07/May/24 2:20 PM,,48.0,22/May/24 1:34 PM
+SRS-53291,579544,Shipp_S1186_Batch_12_Plasma_ULP_90_May24_2_of_2,Closed,Completed,07/May/24 2:20 PM,,45.0,10/May/24 3:22 PM
+SRS-53290,579543,Shipp_S1186_Batch_12_Plasma_ULP_90_May24_1_of_2,Closed,Completed,07/May/24 2:19 PM,,45.0,10/May/24 3:02 PM
+SRS-53289,579542,Shipp_S1186_Batch_11_Plasma_ULP_92_May24_2_of_2,Closed,Completed,07/May/24 2:19 PM,,46.0,10/May/24 2:25 PM
+SRS-53288,579541,Shipp_S1186_Batch_11_Plasma_ULP_92_May24_1_of_2,Closed,Completed,07/May/24 2:19 PM,,46.0,10/May/24 2:16 PM
+SRS-53287,579503,FP Mercury reworks 5/7,Closed,Completed,07/May/24 10:55 AM,Fluidigm,,08/May/24 10:27 AM
+SRS-53286,579473,[WT-142746] for BGEv1_FP-15s_050724 [WR-125763],Closed,Completed,07/May/24 9:48 AM,Fluidigm,15.0,09/May/24 11:39 AM
+SRS-53285,579472,[WT-142745] for BGE-FP-15s_050724 [WR-125762],Closed,Completed,07/May/24 9:48 AM,Fluidigm,15.0,09/May/24 11:38 AM
+SRS-53284,579452,FP Reworks 5/7,Closed,Completed,07/May/24 8:44 AM,Fluidigm,,07/May/24 2:49 PM
+SRS-53283,579451,NeoVax_Ovarian_6DNA_Transfer_to_Research_April2024,Closed,Completed,07/May/24 8:42 AM,Sample Transfers,6.0,14/May/24 2:19 PM
+SRS-53282,579450,[WT-142743] for XTR-10240 PICO [WR-125761],Closed,Completed,07/May/24 8:40 AM,Pico,7.0,13/May/24 11:26 AM
+SRS-53281,579442,1382993186_05-06-2024 02:58:00 Mercury Reworks,Closed,Completed,06/May/24 4:05 PM,Fluidigm,5.0,04/Jun/24 7:24 AM
+SRS-53280,579430,AoU_Infinium_GDA_Arrays_RW_2024.05.06,Closed,Completed,06/May/24 3:46 PM,Infinium,8.0,14/May/24 2:47 PM
+SRS-53279,579388,5/6/24_TruSeq_2,Closed,Completed,06/May/24 12:40 PM,RNA,94.0,08/May/24 10:47 AM
+SRS-53278,579385,5/6/24_TruSeq_1,Closed,Completed,06/May/24 12:35 PM,RNA,94.0,08/May/24 10:47 AM
+SRS-53277,579380,5/6/24_Custom_LC_4,Closed,Completed,06/May/24 12:21 PM,Exome Express,94.0,07/May/24 8:02 AM
+SRS-53276,579378,5/6/24_Custom_LC_3,Closed,Completed,06/May/24 12:20 PM,Exome Express,94.0,07/May/24 8:02 AM
+SRS-53275,579376,5/6/24_Custom_LC_2,Closed,Completed,06/May/24 12:18 PM,Exome Express,94.0,07/May/24 8:02 AM
+SRS-53274,579372,5/6/24_Custom_LC_1,Closed,Completed,06/May/24 12:13 PM,Exome Express,48.0,07/May/24 10:59 AM
+SRS-53273,579368,5/6/24_SIDT_12-plex,Closed,Completed,06/May/24 12:01 PM,Exome Express,59.0,07/May/24 10:59 AM
+SRS-53272,579361,5/6/24_cfDNA_ULP,Closed,Completed,06/May/24 11:56 AM,Blood Biopsy,93.0,07/May/24 8:02 AM
+SRS-53271,579333,1382993105_04-25-2024 11:38:33 Mercury Reworks,Closed,Completed,06/May/24 10:25 AM,Fluidigm,5.0,08/May/24 10:51 AM
+SRS-53270,579330,[WT-142733] for WGS_FluidigmFP_854s_5.6.24 [WR-125751],Closed,Completed,06/May/24 10:14 AM,Fluidigm,41.0,06/May/24 1:38 PM
+SRS-53269,579329,[WT-142731] for WGS_FluidigmFP_854s_5.6.24 [WR-125751],Closed,Completed,06/May/24 10:14 AM,Fluidigm,53.0,06/May/24 1:38 PM
+SRS-53268,579328,[WT-142732] for WGS_FluidigmFP_854s_5.6.24 [WR-125751],Closed,Completed,06/May/24 10:14 AM,Fluidigm,95.0,06/May/24 1:38 PM
+SRS-53267,579327,[WT-142730] for WGS_FluidigmFP_854s_5.6.24 [WR-125751],Closed,Completed,06/May/24 10:14 AM,Fluidigm,95.0,06/May/24 1:38 PM
+SRS-53266,579326,[WT-142728] for WGS_FluidigmFP_854s_5.6.24 [WR-125751],Closed,Completed,06/May/24 10:14 AM,Fluidigm,95.0,06/May/24 1:38 PM
+SRS-53265,579325,[WT-142729] for WGS_FluidigmFP_854s_5.6.24 [WR-125751],Closed,Completed,06/May/24 10:14 AM,Fluidigm,95.0,06/May/24 1:38 PM
+SRS-53264,579324,[WT-142727] for WGS_FluidigmFP_854s_5.6.24 [WR-125751],Closed,Completed,06/May/24 10:14 AM,Fluidigm,95.0,06/May/24 1:38 PM
+SRS-53263,579323,[WT-142725] for WGS_FluidigmFP_854s_5.6.24 [WR-125751],Closed,Completed,06/May/24 10:14 AM,Fluidigm,95.0,06/May/24 1:38 PM
+SRS-53262,579322,[WT-142724] for WGS_FluidigmFP_854s_5.6.24 [WR-125751],Closed,Completed,06/May/24 10:13 AM,Fluidigm,95.0,06/May/24 1:38 PM
+SRS-53261,579321,[WT-142726] for WGS_FluidigmFP_854s_5.6.24 [WR-125751],Closed,Completed,06/May/24 10:13 AM,Fluidigm,95.0,06/May/24 1:38 PM
+SRS-53260,579299,Shipp_S1186_Batch_2_BC_XTR_118_May24_2_of_2,Closed,Completed,06/May/24 9:14 AM,,23.0,17/May/24 10:29 AM
+SRS-53259,579298,Shipp_S1186_Batch_2_BC_XTR_118_May24_1_of_2,Closed,Completed,06/May/24 9:14 AM,,95.0,09/May/24 3:45 PM
+SRS-53258,579297,LOGIC_Doyle_Oragene_DNAExtraction_April2024_2_of_2,Closed,Completed,06/May/24 9:13 AM,,61.0,23/May/24 7:58 AM
+SRS-53257,579296,LOGIC_Doyle_Oragene_DNAExtraction_April2024_1_of_2,Closed,Completed,06/May/24 9:13 AM,,95.0,10/May/24 12:24 PM
+SRS-53256,579295,McCarroll_Macosko_UM1_BICAN_Extractions_Batch10_Archival-Mt.Sinai_5.2.24_2_of_2,Closed,Completed,06/May/24 9:13 AM,,22.0,13/May/24 2:21 PM
+SRS-53255,579294,McCarroll_Macosko_UM1_BICAN_Extractions_Batch10_Archival-Mt.Sinai_5.2.24_1_of_2,Closed,Completed,06/May/24 9:13 AM,,22.0,13/May/24 1:47 PM
+SRS-53254,579293,Shipp_S1186_Batch_10_Plasma_ULP_87_May24_2_of_2,Closed,Completed,06/May/24 9:13 AM,,39.0,10/May/24 11:27 AM
+SRS-53253,579292,Shipp_S1186_Batch_10_Plasma_ULP_87_May24_1_of_2,Closed,Completed,06/May/24 9:13 AM,,48.0,10/May/24 11:14 AM
+SRS-53252,579291,Shipp_S1186_Batch_9_Plasma_ULP_91_May24_2_of_2,Closed,Completed,06/May/24 9:13 AM,,45.0,10/May/24 11:05 AM
+SRS-53251,579290,Shipp_S1186_Batch_9_Plasma_ULP_91_May24_1_of_2,Closed,Completed,06/May/24 9:13 AM,,46.0,08/May/24 3:30 PM
+SRS-53250,579289,Shipp_S1186_Batch_8_Plasma_ULP_90_May24_2_of_2,Closed,Completed,06/May/24 9:13 AM,,45.0,08/May/24 3:19 PM
+SRS-53249,579288,Shipp_S1186_Batch_8_Plasma_ULP_90_May24_1_of_2,Closed,Completed,06/May/24 9:12 AM,,45.0,08/May/24 11:16 AM
+SRS-53248,579287,Shipp_S1186_Batch_7_Plasma_ULP_91_May24_2_of_2,Closed,Completed,06/May/24 9:12 AM,,43.0,08/May/24 2:48 PM
+SRS-53247,579286,Antel_DFCI_ADLiB_Batch_3_30_ULP-WGS_COMBINATION_Apr24,Closed,Completed,06/May/24 9:12 AM,,30.0,10/May/24 10:44 AM
+SRS-53246,579281,Shipp_S1186_Batch_7_Plasma_ULP_91_May24_1_of_2,Closed,Completed,06/May/24 8:24 AM,,48.0,08/May/24 2:47 PM
+SRS-53245,579280,BGEv2_NVX_PDO-35404_MaycBGE validation_P1,Closed,Completed,06/May/24 7:13 AM,Blended Genome Exome,378.0,14/May/24 10:39 AM
+SRS-53244,579279,BGEv2_NVX_PDO-35404_MaycBGE validation_P2,Closed,Completed,06/May/24 7:13 AM,Blended Genome Exome,378.0,14/May/24 10:39 AM
+SRS-53243,579278,FP Reworks 4/25 Research,Closed,Completed,06/May/24 6:54 AM,Fluidigm,,06/May/24 7:23 AM
+SRS-53242,579277,FP Reworks 4/25 Clinical,Closed,Completed,06/May/24 6:53 AM,Fluidigm,,06/May/24 7:23 AM
+SRS-53241,579256,Trichtophyton gDNA tube transfer_03May2024,Closed,Completed,03/May/24 5:07 PM,Sample Transfers,1.0,14/May/24 2:39 PM
+SRS-53240,579224,Parsons_DFCI_MOONRISE_TCR_Polyak_162_Germline_Tube_Returns_April2024,Closed,Completed,03/May/24 2:45 PM,Tube Return & Externals,162.0,12/Jun/24 3:38 PM
+SRS-53238,579222,Parsons_DFCI_MOONRISE_47_gDNA_Stock_Tube_Transfer_Adalsteinsson_Lab_Broad_Truck_May2024,Closed,Completed,03/May/24 2:45 PM,Tube Return & Externals,47.0,06/May/24 3:19 PM
+SRS-53237,579203,1382993042_05-03-2024 01:59:16 Mercury Reworks,Closed,Completed,03/May/24 2:16 PM,Fluidigm,1.0,08/May/24 10:39 AM
+SRS-53236,579117,Karlsson_Megquier (DArk Canine Cancer) - 1 plasma sample for ULPWGS_04-21-2024,Closed,Completed,03/May/24 11:45 AM,,1.0,03/May/24 11:46 AM
+SRS-53235,579079,Karlsson_Megquier (DArk Canine Cancer) - 1 plasma sample for ULPWGS_04-21-2024,Closed,Completed,03/May/24 9:44 AM,,1.0,03/May/24 9:44 AM
+SRS-53234,579078,Antel_DFCI_ADLiB_Batch_3_92_ULP-WGS_Apr24 2 of 2 ,Closed,Completed,03/May/24 9:43 AM,,44.0,03/May/24 9:44 AM
+SRS-53233,579076,Crompton_19-313_ANBL1531_Batch20_EXTERNAL_PLATING_May24,Closed,Completed,03/May/24 9:25 AM,Tube Return & Externals,125.0,28/May/24 11:51 AM
+SRS-53232,579075,Ruchi Jain_sample return_EXPEDITE_5.2.24,Closed,Completed,03/May/24 9:25 AM,Tube Return & Externals,10.0,03/May/24 3:02 PM
+SRS-53231,579065,WGS_PCRFree_NVX 25B_(Eli Lilly FLOW)PDO-35388_5.2.24_30x_Partial,Closed,Completed,03/May/24 7:23 AM,PCR Free,93.0,03/May/24 8:23 AM
+SRS-53230,579059,[WT-142712] for Rebecca Re-PICO 050224 [WR-125734],Closed,Completed,02/May/24 4:42 PM,Pico,88.0,03/May/24 1:20 PM
+SRS-53229,579057,5/2/24_T Cap - WITH NEOVAX,Closed,Completed,02/May/24 4:42 PM,RNA,19.0,03/May/24 2:45 PM
+SRS-53228,579045,1382993160_05-02-2024 02:38:38 Mercury Reworks,Closed,Completed,02/May/24 3:18 PM,Fluidigm,33.0,08/May/24 10:30 AM
+SRS-53227,579001,BGEv2_NVX_MultiPDO_RW_050224,Closed,Completed,02/May/24 1:05 PM,Blended Genome Exome,378.0,13/May/24 4:03 PM
+SRS-53226,579000,BGEv2_25B_PDO-35058_P4,Closed,Completed,02/May/24 1:05 PM,Blended Genome Exome,378.0,07/May/24 3:51 PM
+SRS-53225,578999,BGEv2_25B_PDO-35058_P3,Closed,Completed,02/May/24 1:05 PM,Blended Genome Exome,378.0,13/May/24 3:37 PM
+SRS-53224,578998,BGEv2_NVX_PDO-35404_P2,Closed,Completed,02/May/24 1:05 PM,Blended Genome Exome,378.0,07/May/24 3:28 PM
+SRS-53223,578997,BGEv2_NVX_PDO-35404_P1,Closed,Completed,02/May/24 1:05 PM,Blended Genome Exome,378.0,07/May/24 3:19 PM
+SRS-53222,578967,[WT-142703] for PDO-35401 PICO [WR-125726],Closed,Completed,02/May/24 10:18 AM,Pico,1060.0,20/May/24 2:53 PM
+SRS-53221,578965,SMaHT colon tissue to Andy 5-1-24,Closed,Completed,02/May/24 10:14 AM,Tube Return & Externals,1.0,08/May/24 1:41 PM
+SRS-53220,578964,Ardlie-Ultima DNA shipment May2024,Closed,Completed,02/May/24 10:14 AM,Tube Return & Externals,6.0,23/May/24 1:16 PM
+SRS-53219,578953,CountMeIn_PE-CGS_CLIA_LMSProject; CountMeIn_PE-CGS_CLIA_LMSProject; CountMeIn_PE-CGS_CLIA_OSProject; CountMeIn_PE-CGS_CLIA_LMSProject; CountMeIn_PE-CGS_CLIA_LMSProject; CountMeIn_PE-CGS_CLIA_LMSProject; CountMeIn_PE-CGS_CLIA_LMSProject; CountMeIn_PE-CG...,Closed,Completed,02/May/24 9:33 AM,,17.0,03/May/24 3:42 PM
+SRS-53218,578945,[WT-142701] for SM-NINET PICO [WR-125722],Closed,Completed,02/May/24 7:55 AM,Pico,1.0,13/May/24 1:30 PM
+SRS-53217,578932,WGS FP Reworks _includes 8 Lilly samples_21  older AoU samples_PRIORITY FP Plating_29s_050224,Closed,Completed,02/May/24 12:59 AM,Fluidigm,29.0,03/May/24 11:04 AM
+SRS-53216,578920,[WT-142700] for XTR-10224 PICO [WR-125721],Closed,Completed,01/May/24 4:43 PM,Pico,13.0,03/May/24 7:23 AM
+SRS-53215,578887,Fake,Closed,Completed,01/May/24 2:47 PM,,,17/May/24 10:18 AM
+SRS-53213,578860,1383081014_05-01-2024 01:01:51 Mercury Reworks,Closed,Completed,01/May/24 1:28 PM,Fluidigm,1.0,03/May/24 10:21 AM
+SRS-53212,578801,[WT-142677] for BGE_FP_60s_050124 [WR-125710],Closed,Completed,01/May/24 10:16 AM,Fluidigm,30.0,02/May/24 9:24 AM
+SRS-53211,578800,[WT-142678] for BGE_FP_60s_050124 [WR-125710],Closed,Completed,01/May/24 10:16 AM,Fluidigm,30.0,02/May/24 9:24 AM
+SRS-53210,578799,BGEv1_S4_PDO-35146_P3,Closed,Completed,01/May/24 10:16 AM,Blended Genome Exome,368.0,02/May/24 9:53 AM
+SRS-53209,578798,[WT-142687] for Zeke PICO 050124 [WR-125712],Closed,Completed,01/May/24 10:13 AM,Pico,911.0,02/May/24 7:56 AM
+SRS-53208,578787,CCLF Cell Pellet Extraction (N=37) April2024 2 of 2 ,Closed,Completed,01/May/24 9:20 AM,,13.0,01/May/24 9:20 AM
+SRS-53207,578786,MPG_Vallabh_Minikel_Kamath_RNASeq_CellPellet_XTRN_8_APR2024,Closed,Completed,01/May/24 9:20 AM,,8.0,01/May/24 9:21 AM
+SRS-53206,578767,[WT-142676] for XTR-10213 PICO [WR-125700],Closed,Completed,30/Apr/24 3:37 PM,Pico,13.0,01/May/24 1:24 PM
+SRS-53205,578765,[WT-142675] for XTR-10207 PICO [WR-125699],Closed,Completed,30/Apr/24 3:36 PM,Pico,17.0,01/May/24 1:24 PM
+SRS-53204,578762,[WT-142674] for XTR-10203 PICO [WR-125698],Closed,Completed,30/Apr/24 3:35 PM,Pico,12.0,01/May/24 1:25 PM
+SRS-53203,578760,[WT-142673] for XTR-10214 PICO [WR-125697],Closed,Completed,30/Apr/24 3:33 PM,Pico,2.0,01/May/24 1:25 PM
+SRS-53202,578743,BGEv2_NVX_PDO-33864_P7,Closed,Completed,30/Apr/24 2:39 PM,Blended Genome Exome,378.0,07/May/24 3:23 PM
+SRS-53201,578742,BGEv2_NVX_PDO-33864_P6,Closed,Completed,30/Apr/24 2:39 PM,Blended Genome Exome,378.0,07/May/24 3:20 PM
+SRS-53200,578741,BGEv2_NVX_PDO-33864_P5,Closed,Completed,30/Apr/24 2:39 PM,Blended Genome Exome,378.0,07/May/24 3:16 PM
+SRS-53199,578740,BGEv2_NVX_PDO-33864_P3,Closed,Completed,30/Apr/24 2:39 PM,Blended Genome Exome,378.0,07/May/24 3:07 PM
+SRS-53198,578739,BGEv2_NVX_PDO-33864_P2,Closed,Completed,30/Apr/24 2:39 PM,Blended Genome Exome,378.0,13/May/24 2:22 PM
+SRS-53197,578738,BGEv2_NVX_PDO-33864_P4,Closed,Completed,30/Apr/24 2:39 PM,Blended Genome Exome,378.0,07/May/24 3:11 PM
+SRS-53196,578737,BGEv2_NVX_PDO-33864_P1,Closed,Completed,30/Apr/24 2:39 PM,Blended Genome Exome,378.0,13/May/24 2:09 PM
+SRS-53195,578736,[WT-142671] for XTR-10223 PICO [WR-125693],Closed,Completed,30/Apr/24 2:37 PM,Pico,24.0,01/May/24 1:24 PM
+SRS-53194,578722,BGEv2_NVX_MultiPDO_043024,Closed,Completed,30/Apr/24 2:13 PM,Blended Genome Exome,378.0,07/May/24 3:27 PM
+SRS-53193,578721,WGS_PCRFree_NVX 25B_PDO-35268_4.30_30x_P4,Closed,Completed,30/Apr/24 2:12 PM,PCR Free,95.0,02/May/24 1:03 PM
+SRS-53192,578720,WGS_PCRFree_NVX 25B_PDO-35268_4.30_30x_P3,Closed,Completed,30/Apr/24 2:12 PM,PCR Free,95.0,02/May/24 1:03 PM
+SRS-53191,578719,WGS_PCRFree_NVX 25B_PDO-35268_4.30_30x_P2,Closed,Completed,30/Apr/24 2:12 PM,PCR Free,95.0,02/May/24 1:03 PM
+SRS-53190,578718,WGS_PCRFree_NVX 25B_PDO-35268_4.30_30x_P1,Closed,Completed,30/Apr/24 2:12 PM,PCR Free,95.0,02/May/24 1:03 PM
+SRS-53189,578717,WGS_PCRFree_NVX_Diff Pooling_Includes Rw's and Rw's for Topoff_Mutiple PDOs_4.30.24_25B_30x,Closed,Completed,30/Apr/24 2:12 PM,PCR Free,95.0,01/May/24 3:05 PM
+SRS-53188,578716,WGS_PCRFree_NVX_PDO-35268_30x_P1,Closed,Completed,30/Apr/24 2:12 PM,PCR Free,95.0,02/May/24 1:03 PM
+SRS-53187,578715,WGS_PCRFree_NVX_Mutiple PDOs_4.29.24_30x_P6,Closed,Completed,30/Apr/24 2:12 PM,PCR Free,95.0,02/May/24 1:03 PM
+SRS-53186,578714,WGS_PCRFree_NVX_PDO-35310_30x,Closed,Completed,30/Apr/24 2:12 PM,PCR Free,95.0,02/May/24 1:03 PM
+SRS-53185,578713,WGS_PCRFree_NVX_Mutiple PDOs_4.29.24_30x_P5,Closed,Completed,30/Apr/24 2:12 PM,PCR Free,95.0,02/May/24 1:03 PM
+SRS-53184,578712,WGS_PCRFree_NVX_PDO-35331_4.29.24_30x_P2,Closed,Completed,30/Apr/24 2:12 PM,PCR Free,95.0,02/May/24 1:03 PM
+SRS-53183,578711,WGS_PCRFree_NVX_PDO-35331_4.29.24_30x,Closed,Completed,30/Apr/24 2:12 PM,PCR Free,95.0,02/May/24 1:02 PM
+SRS-53182,578710,WGS_PCRFree_NVX_Mutiple PDOs_4.29.24_30x_P4,Closed,Completed,30/Apr/24 2:12 PM,PCR Free,95.0,01/May/24 3:05 PM
+SRS-53181,578709,WGS_PCRFree_NVX_PDO-35274_4.29.24_30x,Closed,Completed,30/Apr/24 2:12 PM,PCR Free,95.0,01/May/24 3:05 PM
+SRS-53180,578708,WGS_PCRFree_NVX_PDO-35297_4.29.24_30x,Closed,Completed,30/Apr/24 2:12 PM,PCR Free,95.0,01/May/24 3:05 PM
+SRS-53179,578707,WGS_PCRFree_NVX_Mutiple PDOs_4.29.24_30x_P3,Closed,Completed,30/Apr/24 2:12 PM,PCR Free,95.0,01/May/24 3:05 PM
+SRS-53178,578706,WGS_PCRFree_NVX_Mutiple PDOs_4.29.24_30x_P2,Closed,Completed,30/Apr/24 2:12 PM,PCR Free,95.0,01/May/24 3:05 PM
+SRS-53177,578705,WGS_PCRFree_NVX_Mutiple PDOs_4.29.24_30x_P1,Closed,Completed,30/Apr/24 2:12 PM,PCR Free,95.0,01/May/24 3:05 PM
+SRS-53176,578685,Long Read PacBio samples for DNAQC-339,Closed,Completed,30/Apr/24 1:22 PM,Pico,9.0,07/Jun/24 1:41 PM
+SRS-53175,578651,[WT-142663] for WGS_FluidigmFP_626s_4.30 [WR-125688],Closed,Completed,30/Apr/24 11:23 AM,Fluidigm,77.0,30/Apr/24 1:24 PM
+SRS-53174,578650,[WT-142662] for WGS_FluidigmFP_626s_4.30 [WR-125688],Closed,Completed,30/Apr/24 11:22 AM,Fluidigm,74.0,30/Apr/24 1:24 PM
+SRS-53173,578649,[WT-142660] for WGS_FluidigmFP_626s_4.30 [WR-125688],Closed,Completed,30/Apr/24 11:22 AM,Fluidigm,95.0,30/Apr/24 1:25 PM
+SRS-53172,578648,[WT-142661] for WGS_FluidigmFP_626s_4.30 [WR-125688],Closed,Completed,30/Apr/24 11:22 AM,Fluidigm,95.0,06/May/24 8:25 AM
+SRS-53171,578647,[WT-142657] for WGS_FluidigmFP_626s_4.30 [WR-125688],Closed,Completed,30/Apr/24 11:22 AM,Fluidigm,95.0,30/Apr/24 1:24 PM
+SRS-53170,578646,[WT-142659] for WGS_FluidigmFP_626s_4.30 [WR-125688],Closed,Completed,30/Apr/24 11:22 AM,Fluidigm,95.0,30/Apr/24 1:24 PM
+SRS-53169,578645,[WT-142658] for WGS_FluidigmFP_626s_4.30 [WR-125688],Closed,Completed,30/Apr/24 11:21 AM,Fluidigm,95.0,30/Apr/24 1:24 PM
+SRS-53168,578599,High Priority Kinnex RNA Pilot Set,Closed,Completed,30/Apr/24 9:27 AM,RNA,48.0,30/Apr/24 10:49 AM
+SRS-53167,578595,Custom Panel DRAGEN Test 042924,Closed,Completed,30/Apr/24 8:07 AM,Exome Express,9.0,30/Apr/24 8:39 AM
+SRS-53166,578594,4/29/04_Custom_Hyb_3,Closed,Completed,30/Apr/24 8:07 AM,Exome Express,14.0,30/Apr/24 9:24 AM
+SRS-53165,578593,4/29/04_Custom_Hyb_2,Closed,Completed,30/Apr/24 8:07 AM,Exome Express,17.0,30/Apr/24 9:26 AM
+SRS-53164,578592,4/29/24_Custom_Hyb_1,Closed,Completed,30/Apr/24 8:06 AM,Exome Express,17.0,30/Apr/24 9:25 AM
+SRS-53163,578591,[WT-142655] for WR-125167 PICO [WR-125685],Closed,Completed,30/Apr/24 7:48 AM,Pico,8.0,13/May/24 12:55 PM
+SRS-53162,578589,[WT-142653] for PDO-35336 FP [WR-125678],Closed,Completed,30/Apr/24 6:20 AM,Fluidigm,7.0,30/Apr/24 6:37 AM
+SRS-53161,578583,LCSET-30212 Watchmaker RNA,Closed,Completed,29/Apr/24 6:09 PM,RNA,24.0,03/May/24 2:45 PM
+SRS-53160,578581,4/29/24_SIDT_WAIT FOR CLINICAL,Closed,Completed,29/Apr/24 5:53 PM,Exome Express,22.0,01/May/24 11:04 AM
+SRS-53159,578579,4/29/24_gDNA_ULP,Closed,Completed,29/Apr/24 5:49 PM,WGS,14.0,30/Apr/24 3:29 PM
+SRS-53158,578577,4/29/24_cfDNA_ULP,Closed,Completed,29/Apr/24 5:46 PM,Blood Biopsy,49.0,30/Apr/24 3:29 PM
+SRS-53157,578554,URGENT_cWGS_External plating for GeneDx send out_56752207081539,Closed,Completed,29/Apr/24 3:35 PM,Tube Return & Externals,1.0,30/Apr/24 10:21 AM
+SRS-53156,578541,Stock check of SM-EAS58,Closed,Completed,29/Apr/24 3:02 PM,,1.0,08/May/24 3:43 PM
+SRS-53155,578536,[WT-142654] for PDO-35340 PICO [WR-125679],Closed,Completed,29/Apr/24 2:48 PM,Pico,41.0,16/May/24 9:32 AM
+SRS-53154,578516,4/29/24_Custom_LC_5,Closed,Completed,29/Apr/24 2:03 PM,Exome Express,94.0,30/Apr/24 11:05 AM
+SRS-53153,578513,4/29/24_Custom_LC_4,Closed,Completed,29/Apr/24 2:01 PM,Exome Express,94.0,30/Apr/24 11:05 AM
+SRS-53152,578511,4/29/24_Custom_LC_3,Closed,Completed,29/Apr/24 1:59 PM,Exome Express,94.0,30/Apr/24 11:04 AM
+SRS-53151,578509,4/29/24_Custom_LC_2,Closed,Completed,29/Apr/24 1:57 PM,Exome Express,94.0,30/Apr/24 11:04 AM
+SRS-53150,578507,4/29/24_Custom_LC_1,Closed,Completed,29/Apr/24 1:55 PM,Exome Express,94.0,30/Apr/24 11:04 AM
+SRS-53149,578505,1383079143_04-29-2024 01:18:22 Mercury Reworks,Closed,Completed,29/Apr/24 1:44 PM,Fluidigm,5.0,30/Apr/24 6:57 AM
+SRS-53148,578493,FP Emerge + production rework,Closed,Completed,29/Apr/24 11:57 AM,Fluidigm,,29/Apr/24 1:33 PM
+SRS-53145,578467,Crompton_17-433_Wilms_14_ULPWGS_April24,Closed,Completed,29/Apr/24 8:14 AM,,14.0,29/Apr/24 9:58 AM
+SRS-53144,578403,1383080184_04-26-2024 12:07:44 Mercury Reworks,Closed,Completed,26/Apr/24 2:11 PM,Fluidigm,8.0,08/May/24 10:17 AM
+SRS-53143,578397,eMERGE_Infinium_GDA_Arrays_RW_2024.04.26,Closed,Completed,26/Apr/24 1:43 PM,Infinium,11.0,29/Apr/24 10:06 AM
+SRS-53142,578365,[WT-142635] for PDO-35328 PICO [WR-125661],Closed,Completed,26/Apr/24 11:49 AM,Pico,4.0,29/Apr/24 10:34 AM
+SRS-53141,578313,BGEv2_NVX_PDO-35299,Closed,Completed,26/Apr/24 10:17 AM,Blended Genome Exome,378.0,29/Apr/24 10:34 AM
+SRS-53140,578312,Bahrain_WGS_PDO-34991_PDO-34993_PDO-34994_PDO-34996,Closed,Completed,26/Apr/24 10:11 AM,WGS,45.0,26/Apr/24 10:12 AM
+SRS-53139,578311,Karlsson_Megquier (DArk Canine Cancer) - 1 plasma sample for ULPWGS_04-23-2024,Closed,Completed,26/Apr/24 10:07 AM,,1.0,30/Apr/24 9:32 AM
+SRS-53138,578307,[WT-142630] for PDO-35079 PICO [WR-125652],Closed,Completed,26/Apr/24 9:57 AM,Pico,1.0,26/Apr/24 1:42 PM
+SRS-53137,578259,NeoVax_Ovarian_Stock_Return_6samples_April2024,Closed,Completed,26/Apr/24 8:58 AM,Tube Return & Externals,6.0,08/May/24 2:37 PM
+SRS-53136,578254,WGS_PCRFree_NVX_25B_GMKF PDOs_4.26.24_30x_P4,Closed,Completed,26/Apr/24 7:56 AM,PCR Free,95.0,26/Apr/24 9:15 AM
+SRS-53135,578253,WGS_PCRFree_NVX_25B_GMKF PDOs_4.26.24_30x_P3,Closed,Completed,26/Apr/24 7:56 AM,PCR Free,95.0,26/Apr/24 9:15 AM
+SRS-53134,578252,WGS_PCRFree_NVX_25B_GMKF PDOs_4.26.24_30x_P2,Closed,Completed,26/Apr/24 7:56 AM,PCR Free,95.0,26/Apr/24 9:15 AM
+SRS-53133,578251,WGS_PCRFree_NVX_25B_GMKF PDOs_4.26.24_30x_P1,Closed,Completed,26/Apr/24 7:56 AM,PCR Free,95.0,26/Apr/24 9:15 AM
+SRS-53132,578244,WGS_PCRFree_NVX_25B_Mutiple PDOs_4.25.24_30x_P2,Closed,Completed,26/Apr/24 6:59 AM,PCR Free,95.0,26/Apr/24 9:15 AM
+SRS-53131,578243,WGS_PCRFree_NVX_Mutiple PDOs_4.25.24_25B_30x,Closed,Completed,26/Apr/24 6:59 AM,PCR Free,95.0,26/Apr/24 9:15 AM
+SRS-53130,578239,cWGS Sample Missing for WGS ,Closed,Completed,25/Apr/24 5:14 PM,WGS,1.0,29/Apr/24 8:39 AM
+SRS-53129,578178,[WT-142619] for XTR-10187 PICO2 [WR-125628],Closed,Completed,25/Apr/24 1:00 PM,Pico,1.0,26/Apr/24 6:59 AM
+SRS-53128,578139,eMERGE_Infinium_GDA_Arrays_RW_2024.04.25,Closed,Completed,25/Apr/24 11:23 AM,Infinium,2.0,26/Apr/24 6:55 AM
+SRS-53126,578067,[WT-142612] for PDO-35267 PICO [WR-125629],Closed,Completed,24/Apr/24 2:37 PM,Pico,7.0,25/Apr/24 7:37 AM
+SRS-53125,578041,[WT-142605] for BGE_FP_042424 [WR-125625],Closed,Completed,24/Apr/24 1:19 PM,Fluidigm,75.0,25/Apr/24 6:51 AM
+SRS-53124,578040,[WT-142606] for BGE_FP_042424 [WR-125625],Closed,Completed,24/Apr/24 1:19 PM,Fluidigm,30.0,25/Apr/24 6:51 AM
+SRS-53123,578039,mWGS_DRAGEN_6GB_Metagenomic_MultiPDO_042424,Closed,Completed,24/Apr/24 1:19 PM,Microbial,185.0,24/Apr/24 1:54 PM
+SRS-53122,578037,1382993103_04-24-2024 11:10:41 Mercury Reworks,Closed,Completed,24/Apr/24 1:12 PM,Fluidigm,69.0,25/Apr/24 9:27 AM
+SRS-53121,578035,[WT-142610] for XTR-10205 PICO [WR-125627],Closed,Completed,24/Apr/24 1:09 PM,Pico,4.0,24/Apr/24 1:45 PM
+SRS-53120,578028,[WT-142609] for XTR-10198 PICO [WR-125626],Closed,Completed,24/Apr/24 12:50 PM,Pico,16.0,24/Apr/24 1:45 PM
+SRS-53119,577993,Test Saliva Kan Ban ,Closed,Completed,24/Apr/24 11:21 AM,,1.0,24/Apr/24 12:07 PM
+SRS-53118,577955,NHP dGTEx Tissue For Pathology 4-10-24,Closed,Completed,24/Apr/24 10:11 AM,Tube Return & Externals,4.0,29/Apr/24 3:35 PM
+SRS-53117,577954,SAMPLE DESTRUCTION ASC_CMI_Saliva_Sample_Destruction_Request_Related_to_BQMS_84534_Apr2024,Closed,Completed,24/Apr/24 10:10 AM,Tube Return & Externals,1.0,25/Apr/24 10:02 AM
+SRS-53116,577953,DepMap_SampleReturn_CellLines_11_April24,Closed,Completed,24/Apr/24 10:10 AM,Tube Return & Externals,11.0,24/May/24 10:20 AM
+SRS-53115,577943,PRIORITY FINGERPRINT 2/24,Closed,Completed,24/Apr/24 9:10 AM,Fluidigm,,24/Apr/24 9:21 AM
+SRS-53114,577923, CCLF Express Cell Pellet Extraction for TWIST64_April2024 2 of 2 ,Closed,Completed,24/Apr/24 8:28 AM,,17.0,25/Apr/24 9:54 AM
+SRS-53113,577921,WGS_PCRFree_NVX_Differential Pooling_Mutiple PDOs_4.23.24_25B_30x_80x,Closed,Completed,24/Apr/24 7:01 AM,PCR Free,95.0,24/Apr/24 10:48 AM
+SRS-53112,577920,WGS_PCRFree_NVX_Includes RW's_Mutiple PDOs_4.23.24_25B_30x,Closed,Completed,24/Apr/24 7:01 AM,PCR Free,95.0,24/Apr/24 8:14 AM
+SRS-53111,577888,4/22/24_cfDNA_ULP,Closed,Completed,23/Apr/24 4:28 PM,Blood Biopsy,92.0,24/Apr/24 9:55 AM
+SRS-53110,577882,Samples to be retrieved for tissue type cross-check,Closed,Completed,23/Apr/24 4:00 PM,,,29/Apr/24 10:46 AM
+SRS-53109,577880,[WT-142588] for XTR-10187 PICO [WR-125608],Closed,Completed,23/Apr/24 3:56 PM,Pico,83.0,24/Apr/24 7:02 AM
+SRS-53108,577871,1382993095_04-23-2024 02:43:55 Mercury Reworks,Closed,Completed,23/Apr/24 3:23 PM,Fluidigm,5.0,08/May/24 10:12 AM
+SRS-53107,577844,"[WT-142582] for WGS_FluidigmFP_88s_4,23.24 [WR-125600]",Closed,Completed,23/Apr/24 2:03 PM,Fluidigm,88.0,24/Apr/24 9:04 AM
+SRS-53106,577818,Priority Fingerprint Rework ,Closed,Completed,23/Apr/24 11:26 AM,Fluidigm,1.0,24/Apr/24 8:50 AM
+SRS-53105,577814,Bahrain_WGS_PDO-35228_Set 4,Closed,Completed,23/Apr/24 11:06 AM,PCR Free,94.0,23/Apr/24 11:48 AM
+SRS-53104,577813,Bahrain_WGS_PDO-35228_Set 3,Closed,Completed,23/Apr/24 11:06 AM,PCR Free,94.0,23/Apr/24 11:48 AM
+SRS-53103,577812,Bahrain_WGS_PDO-35228_Set 2,Closed,Completed,23/Apr/24 11:05 AM,PCR Free,94.0,23/Apr/24 11:48 AM
+SRS-53102,577811,Bahrain_WGS_PDO-35228_Set 1,Closed,Completed,23/Apr/24 11:05 AM,PCR Free,92.0,23/Apr/24 11:48 AM
+SRS-53101,577736,[WT-142563] for PDO-35229 FP [WR-125583],Closed,Completed,22/Apr/24 2:43 PM,Fluidigm,1.0,23/Apr/24 7:08 AM
+SRS-53100,577735,[WT-142562] for PDO-35229 FP [WR-125583],Closed,Completed,22/Apr/24 2:43 PM,Fluidigm,11.0,23/Apr/24 7:08 AM
+SRS-53099,577732,2 samples for quant did not receive accurate volume ,Closed,Completed,22/Apr/24 2:30 PM,Pico,2.0,05/Jun/24 8:56 AM
+SRS-53098,577729,[WT-142570] for XTR-10197 PICO [WR-125592],Closed,Completed,22/Apr/24 2:00 PM,Pico,24.0,22/Apr/24 3:24 PM
+SRS-53097,577707,[WT-142567] for Coleman BROAD RANGE PICO 042224 [WR-125586],Closed,Completed,22/Apr/24 12:54 PM,Pico,860.0,23/Apr/24 9:52 AM
+SRS-53096,577696,4/22/24_TruSeq_2,Closed,Completed,22/Apr/24 11:06 AM,RNA,94.0,22/Apr/24 3:19 PM
+SRS-53095,577694,4/22/24_TruSeq_1,Closed,Completed,22/Apr/24 11:03 AM,RNA,94.0,22/Apr/24 3:19 PM
+SRS-53094,577692,4/22/24_Custom_LC_6,Closed,Completed,22/Apr/24 11:00 AM,Exome Express,94.0,22/Apr/24 4:03 PM
+SRS-53093,577690,4/22/24_Custom_LC_5,Closed,Completed,22/Apr/24 10:59 AM,Exome Express,94.0,22/Apr/24 2:47 PM
+SRS-53092,577688,4/22/24_Custom_LC_4,Closed,Completed,22/Apr/24 10:57 AM,Exome Express,94.0,22/Apr/24 2:47 PM
+SRS-53091,577686,4/22/24_Custom_LC_3,Closed,Completed,22/Apr/24 10:56 AM,Exome Express,94.0,22/Apr/24 2:47 PM
+SRS-53090,577684,4/22/24_Custom_LC_2,Closed,Completed,22/Apr/24 10:55 AM,Exome Express,94.0,22/Apr/24 2:47 PM
+SRS-53089,577682,4/22/24_Custom_LC_1,Closed,Completed,22/Apr/24 10:53 AM,Exome Express,94.0,22/Apr/24 2:46 PM
+SRS-53088,577678,Checking Stock of Eli Lilly for Re-Extraction,Closed,Completed,22/Apr/24 10:41 AM,,7.0,29/Apr/24 10:15 AM
+SRS-53086,577642,CCLF Express Cell Pellet Extraction for TWIST64_April2024 1 of 2 ,Closed,Completed,22/Apr/24 8:19 AM,,24.0,23/Apr/24 7:59 AM
+SRS-53085,577619,Eric's Normies 4/19/24,Closed,Completed,19/Apr/24 3:52 PM,Pico,292.0,19/Apr/24 5:17 PM
+SRS-53084,577592,GSA_Infinium_2024.04.19_18,Closed,Completed,19/Apr/24 3:21 PM,Infinium,95.0,22/Apr/24 3:06 PM
+SRS-53083,577590,GSA_Infinium_2024.04.19_17,Closed,Completed,19/Apr/24 3:21 PM,Infinium,95.0,22/Apr/24 3:06 PM
+SRS-53082,577589,GSA_Infinium_2024.04.19_16,Closed,Completed,19/Apr/24 3:20 PM,Infinium,95.0,22/Apr/24 3:06 PM
+SRS-53081,577588,GSA_Infinium_2024.04.19_15,Closed,Completed,19/Apr/24 3:20 PM,Infinium,95.0,22/Apr/24 3:06 PM
+SRS-53080,577587,GSA_Infinium_2024.04.19_14,Closed,Completed,19/Apr/24 3:20 PM,Infinium,95.0,22/Apr/24 2:19 PM
+SRS-53079,577586,GSA_Infinium_2024.04.19_13,Closed,Completed,19/Apr/24 3:19 PM,Infinium,95.0,22/Apr/24 2:19 PM
+SRS-53078,577583,GSA_Infinium_2024.04.19_12,Closed,Completed,19/Apr/24 3:19 PM,Infinium,95.0,22/Apr/24 2:19 PM
+SRS-53077,577581,GSA_Infinium_2024.04.19_11,Closed,Completed,19/Apr/24 3:18 PM,Infinium,95.0,22/Apr/24 2:19 PM
+SRS-53076,577579,GSA_Infinium_2024.04.19_10,Closed,Completed,19/Apr/24 3:18 PM,Infinium,95.0,22/Apr/24 2:19 PM
+SRS-53075,577578,GSA_Infinium_2024.04.19_9,Closed,Completed,19/Apr/24 3:18 PM,Infinium,95.0,22/Apr/24 2:19 PM
+SRS-53074,577577,GSA_Infinium_2024.04.19_8,Closed,Completed,19/Apr/24 3:17 PM,Infinium,95.0,22/Apr/24 2:18 PM
+SRS-53073,577576,GSA_Infinium_2024.04.19_7,Closed,Completed,19/Apr/24 3:17 PM,Infinium,95.0,22/Apr/24 2:18 PM
+SRS-53072,577575,GSA_Infinium_2024.04.19_6,Closed,Completed,19/Apr/24 3:16 PM,Infinium,95.0,22/Apr/24 2:18 PM
+SRS-53071,577574,GSA_Infinium_2024.04.19_5,Closed,Completed,19/Apr/24 3:16 PM,Infinium,95.0,22/Apr/24 2:17 PM
+SRS-53070,577573,GSA_Infinium_2024.04.19_4,Closed,Completed,19/Apr/24 3:16 PM,Infinium,95.0,22/Apr/24 2:17 PM
+SRS-53069,577572,GSA_Infinium_2024.04.19_3,Closed,Completed,19/Apr/24 3:15 PM,Infinium,95.0,22/Apr/24 2:17 PM
+SRS-53068,577571,GSA_Infinium_2024.04.19_2,Closed,Completed,19/Apr/24 3:14 PM,Infinium,95.0,22/Apr/24 2:17 PM
+SRS-53067,577570,GSA_Infinium_2024.04.19_1,Closed,Completed,19/Apr/24 3:13 PM,Infinium,95.0,22/Apr/24 2:16 PM
+SRS-53066,577568,AoU_Infinium_GDA_Arrays_RW_2024.04.19,Closed,Completed,19/Apr/24 3:04 PM,Infinium,2.0,22/Apr/24 3:54 PM
+SRS-53065,577522,CMI_PCP_84ULP_DRAGEN_April24 2 of 2,Closed,Completed,19/Apr/24 11:06 AM,,36.0,23/Apr/24 7:59 AM
+SRS-53064,577521,CMI_PCP_84ULP_DRAGEN_April24 1 of 2,Closed,Completed,19/Apr/24 11:06 AM,,48.0,23/Apr/24 7:58 AM
+SRS-53063,577475,eMERGE_Infinium_GDA_Arrays_RW_2024.04.18,Closed,Completed,18/Apr/24 4:33 PM,Infinium,10.0,22/Apr/24 3:53 PM
+SRS-53062,577449,LCSET-30107 watchmaker reworks,Closed,Completed,18/Apr/24 3:08 PM,RNA,30.0,30/Apr/24 2:37 PM
+SRS-53061,577441,[WT-142532] for PDO-35212 FP [WR-125552],Closed,Completed,18/Apr/24 2:51 PM,Fluidigm,1.0,19/Apr/24 2:28 PM
+SRS-53060,577440,[WT-142533] for PDO-35212 FP [WR-125552],Closed,Completed,18/Apr/24 2:51 PM,Fluidigm,1.0,19/Apr/24 2:28 PM
+SRS-53059,577439,SAMPLE DESTRUCTION eMERGE_1Sample_Destruction_April2024,Closed,Completed,18/Apr/24 2:45 PM,Sample Destruction,1.0,03/Jun/24 1:58 PM
+SRS-53058,577438,Travellers_Plating_18Apr2024,Closed,Completed,18/Apr/24 2:45 PM,Tube Return & Externals,61.0,02/May/24 10:58 AM
+SRS-53057,577410,COMBINATIONS_Crompton_19-313_ANBL1531_SPECIAL_HANDLING_ULP_Combination_110_Apr24 3 of 3,Closed,Completed,18/Apr/24 1:03 PM,,14.0,26/Apr/24 10:13 AM
+SRS-53056,577409,COMBINATIONS_Crompton_19-313_ANBL1531_SPECIAL_HANDLING_ULP_Combination_110_Apr24 2 of 3,Closed,Completed,18/Apr/24 1:03 PM,,48.0,26/Apr/24 3:12 PM
+SRS-53055,577408,COMBINATIONS_Crompton_19-313_ANBL1531_SPECIAL_HANDLING_ULP_Combination_110_Apr24 1 of 3,Closed,Completed,18/Apr/24 1:03 PM,,48.0,26/Apr/24 10:08 AM
+SRS-53054,577401,Eli Lilly BQMS low QC Re-Extraction April 2024,Closed,Completed,18/Apr/24 12:39 PM,,6.0,19/Apr/24 11:07 AM
+SRS-53053,577363,Eli Lilly BQMS low QC 2nd Aliquot Extraction April 2024,Closed,Completed,18/Apr/24 10:52 AM,,84.0,22/Apr/24 4:04 PM
+SRS-53052,577297,[WT-142512] for PDO-35193 PICO [WR-125537],Closed,Completed,18/Apr/24 7:43 AM,Pico,2.0,23/Apr/24 8:11 AM
+SRS-53051,577216,BGEv1_S4_PDO-35146_P2,Closed,Completed,17/Apr/24 1:36 PM,Blended Genome Exome,384.0,24/Apr/24 10:28 AM
+SRS-53050,577215,Checking for Mass of Stool samples,Closed,Completed,17/Apr/24 1:28 PM,,7.0,14/May/24 3:12 PM
+SRS-53049,577202,[WT-142498] for PDO-35191 PICO [WR-125523],Closed,Completed,17/Apr/24 1:06 PM,Pico,1.0,26/Apr/24 1:53 PM
+SRS-53048,577170,[WT-142485] for WGS_FluidigmFP_83s_4.17 [WR-125515],Closed,Completed,17/Apr/24 12:22 PM,Fluidigm,76.0,19/Apr/24 2:28 PM
+SRS-53047,577169,[WT-142486] for WGS_FluidigmFP_83s_4.17 [WR-125515],Closed,Completed,17/Apr/24 12:22 PM,Fluidigm,7.0,19/Apr/24 2:28 PM
+SRS-53046,577112,Clinical FP samples,Closed,Completed,17/Apr/24 9:49 AM,Fluidigm,,18/Apr/24 3:08 PM
+SRS-53045,577106,AoU_WGS_PDO-35112_Set 5,Closed,Completed,17/Apr/24 9:25 AM,PCR Free,94.0,17/Apr/24 3:12 PM
+SRS-53044,577105,AoU_WGS_PDO-35108_Set 2,Closed,Completed,17/Apr/24 9:25 AM,PCR Free,94.0,17/Apr/24 3:12 PM
+SRS-53043,577104,AoU_WGS_PDO-35102_Set 4,Closed,Completed,17/Apr/24 9:25 AM,PCR Free,94.0,17/Apr/24 3:12 PM
+SRS-53042,577103,AoU_WGS_PDO-35112_PDO-35039,Closed,Completed,17/Apr/24 9:25 AM,PCR Free,95.0,17/Apr/24 3:12 PM
+SRS-53041,577102,WGS_PCRFree_NVX_includes Rw's_Mutiple PDOs_4.16.24__30x_25B,Closed,Completed,17/Apr/24 9:25 AM,PCR Free,95.0,17/Apr/24 1:43 PM
+SRS-53040,577063,[WT-142476] for XTR-10177 PICO [WR-125503],Closed,Completed,16/Apr/24 3:41 PM,Pico,44.0,19/Apr/24 9:37 AM
+SRS-53039,577061,[WT-142475] for XTR-10179 PICO [WR-125502],Closed,Completed,16/Apr/24 3:40 PM,Pico,7.0,19/Apr/24 9:37 AM
+SRS-53038,577038,[WT-142473] for SGE_FP_69s_041624 [WR-125499],Closed,Completed,16/Apr/24 2:53 PM,Fluidigm,64.0,17/Apr/24 9:28 AM
+SRS-53037,577037,[WT-142474] for SGE_FP_69s_041624 [WR-125499],Closed,Completed,16/Apr/24 2:53 PM,Fluidigm,5.0,17/Apr/24 9:27 AM
+SRS-53036,577031,PRIORITY FINGERPRINT 4/16,Closed,Completed,16/Apr/24 2:32 PM,Fluidigm,,18/Apr/24 3:11 PM
+SRS-53035,577026,[WT-142469] for XTR-10175 PICO [WR-125497],Closed,Completed,16/Apr/24 2:09 PM,Pico,1.0,19/Apr/24 9:37 AM
+SRS-53034,577020,Karlsson_Megquier (DArk Canine Cancer) - 7 plasma samples for ULPWGS_04-12-2024,Closed,Completed,16/Apr/24 1:26 PM,,7.0,19/Apr/24 11:05 AM
+SRS-53033,577019,NHP dGTEx Tissue For Pathology 4-10-24,Closed,Completed,16/Apr/24 1:26 PM,,4.0,18/Apr/24 12:08 PM
+SRS-53032,577006,1383021092_04-16-2024 12:16:20 Mercury Reworks,Closed,Completed,16/Apr/24 12:30 PM,Fluidigm,234.0,30/Apr/24 2:54 PM
+SRS-53031,576950,CMI_CRC_7BuffyCoat_XTR_041124,Closed,Completed,16/Apr/24 10:03 AM,,7.0,18/Apr/24 12:38 PM
+SRS-53030,576944,[WT-142464] for BGE_FP_041624 [WR-125491],Closed,Completed,16/Apr/24 9:39 AM,Fluidigm,15.0,17/Apr/24 9:27 AM
+SRS-53029,576934,BGEv1_S4_PDO-35146_P1,Closed,Completed,16/Apr/24 9:28 AM,Blended Genome Exome,384.0,17/Apr/24 3:01 PM
+SRS-53028,576933,BGEv1_S4_PDO-34950_PDO-35146,Closed,Completed,16/Apr/24 9:28 AM,Blended Genome Exome,384.0,17/Apr/24 11:08 AM
+SRS-53027,576923,[WT-142462] for XTR-10173 PICO [WR-125490],Closed,Completed,16/Apr/24 7:52 AM,Pico,10.0,16/Apr/24 11:19 AM
+SRS-53026,576921,RGP_BloodExtraction_PacBio_Apr2024_9_0f_9,Closed,Completed,16/Apr/24 7:45 AM,,8.0,26/Apr/24 3:09 PM
+SRS-53025,576920,RGP_BloodExtraction_PacBio_Apr2024 8 of 9 ,Closed,Completed,16/Apr/24 7:45 AM,,24.0,26/Apr/24 3:21 PM
+SRS-53024,576919,RGP_BloodExtraction_PacBio_Apr2024 7 of 9 ,Closed,Completed,16/Apr/24 7:45 AM,,24.0,26/Apr/24 3:03 PM
+SRS-53023,576918,RGP_BloodExtraction_PacBio_Apr2024 6 of 9,Closed,Completed,16/Apr/24 7:44 AM,,24.0,29/Apr/24 2:26 PM
+SRS-53022,576917,RGP_BloodExtraction_PacBio_Apr2024 5 of 9 ,Closed,Completed,16/Apr/24 7:44 AM,,24.0,25/Apr/24 9:55 AM
+SRS-53021,576916,RGP_BloodExtraction_PacBio_Apr2024 4 of 9 ,Closed,Completed,16/Apr/24 7:44 AM,,24.0,25/Apr/24 9:55 AM
